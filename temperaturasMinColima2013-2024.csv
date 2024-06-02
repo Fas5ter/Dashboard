@@ -1,0 +1,2146 @@
+Lon,Lat,Est,Tmin,Fecha
+-103.61,19.25,"Buenavista, Col.",15.4,2013-01-01
+-103.73,18.76,"Cerro de Ortega, Col.",18.2,2013-01-01
+-103.63,18.83,"Callejones, Col.",18.9,2013-01-01
+-103.8,19.21,"Coquimatlán, Col.",18.5,2013-01-01
+-103.6,19.32,"Cuauhtémoc, Col.",15.6,2013-01-01
+-103.88,19.11,"Presa derivadora Jala, Col.",18.9,2013-01-01
+-103.77,18.81,"Laguna de Amela, Col.",18.2,2013-01-01
+-103.73,19.22,"La Posta, Col.",17.5,2013-01-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.5,2013-01-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",20.2,2013-01-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.8,2013-01-01
+-103.81,19.33,"Peñitas, Col.",18.7,2013-01-01
+-104.1,18.94,"Radar, Col.",20.5,2013-01-01
+-103.87,18.91,"Tecomán, Col.",18.9,2013-01-01
+-103.61,19.25,"Buenavista, Col.",14.0,2013-02-01
+-103.73,18.76,"Cerro de Ortega, Col.",16.5,2013-02-01
+-103.63,18.83,"Callejones, Col.",16.2,2013-02-01
+-103.8,19.21,"Coquimatlán, Col.",16.7,2013-02-01
+-103.6,19.32,"Cuauhtémoc, Col.",14.4,2013-02-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.6,2013-02-01
+-103.77,18.81,"Laguna de Amela, Col.",16.6,2013-02-01
+-103.73,19.22,"La Posta, Col.",16.1,2013-02-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",18.7,2013-02-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.1,2013-02-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",20.6,2013-02-01
+-103.81,19.33,"Peñitas, Col.",17.2,2013-02-01
+-104.1,18.94,"Radar, Col.",19.0,2013-02-01
+-103.87,18.91,"Tecomán, Col.",17.4,2013-02-01
+-103.61,19.25,"Buenavista, Col.",14.8,2013-03-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.2,2013-03-01
+-103.63,18.83,"Callejones, Col.",16.7,2013-03-01
+-103.8,19.21,"Coquimatlán, Col.",16.8,2013-03-01
+-103.6,19.32,"Cuauhtémoc, Col.",15.3,2013-03-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.6,2013-03-01
+-103.77,18.81,"Laguna de Amela, Col.",17.2,2013-03-01
+-103.73,19.22,"La Posta, Col.",16.9,2013-03-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.8,2013-03-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.3,2013-03-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",20.8,2013-03-01
+-103.81,19.33,"Peñitas, Col.",17.9,2013-03-01
+-104.1,18.94,"Radar, Col.",18.5,2013-03-01
+-103.87,18.91,"Tecomán, Col.",17.6,2013-03-01
+-103.61,19.25,"Buenavista, Col.",14.5,2013-04-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.4,2013-04-01
+-103.63,18.83,"Callejones, Col.",16.8,2013-04-01
+-103.8,19.21,"Coquimatlán, Col.",17.6,2013-04-01
+-103.6,19.32,"Cuauhtémoc, Col.",15.5,2013-04-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.7,2013-04-01
+-103.77,18.81,"Laguna de Amela, Col.",17.4,2013-04-01
+-103.73,19.22,"La Posta, Col.",17.3,2013-04-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.4,2013-04-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",18.4,2013-04-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",20.3,2013-04-01
+-103.81,19.33,"Peñitas, Col.",17.9,2013-04-01
+-104.1,18.94,"Radar, Col.",18.6,2013-04-01
+-103.87,18.91,"Tecomán, Col.",18.0,2013-04-01
+-103.61,19.25,"Buenavista, Col.",17.1,2013-05-01
+-103.73,18.76,"Cerro de Ortega, Col.",19.7,2013-05-01
+-103.63,18.83,"Callejones, Col.",19.2,2013-05-01
+-103.8,19.21,"Coquimatlán, Col.",19.5,2013-05-01
+-103.6,19.32,"Cuauhtémoc, Col.",17.3,2013-05-01
+-103.88,19.11,"Presa derivadora Jala, Col.",18.8,2013-05-01
+-103.77,18.81,"Laguna de Amela, Col.",19.7,2013-05-01
+-103.73,19.22,"La Posta, Col.",18.9,2013-05-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.8,2013-05-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",20.7,2013-05-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",22.3,2013-05-01
+-103.81,19.33,"Peñitas, Col.",19.3,2013-05-01
+-104.1,18.94,"Radar, Col.",20.8,2013-05-01
+-103.87,18.91,"Tecomán, Col.",20.1,2013-05-01
+-103.61,19.25,"Buenavista, Col.",20.4,2013-06-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.3,2013-06-01
+-103.63,18.83,"Callejones, Col.",23.3,2013-06-01
+-103.8,19.21,"Coquimatlán, Col.",23.2,2013-06-01
+-103.6,19.32,"Cuauhtémoc, Col.",18.7,2013-06-01
+-103.88,19.11,"Presa derivadora Jala, Col.",23.4,2013-06-01
+-103.77,18.81,"Laguna de Amela, Col.",22.9,2013-06-01
+-103.73,19.22,"La Posta, Col.",22.5,2013-06-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.5,2013-06-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.0,2013-06-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",20.7,2013-06-01
+-103.81,19.33,"Peñitas, Col.",22.7,2013-06-01
+-104.1,18.94,"Radar, Col.",24.6,2013-06-01
+-103.87,18.91,"Tecomán, Col.",23.8,2013-06-01
+-103.61,19.25,"Buenavista, Col.",19.9,2013-07-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.6,2013-07-01
+-103.63,18.83,"Callejones, Col.",22.8,2013-07-01
+-103.8,19.21,"Coquimatlán, Col.",22.8,2013-07-01
+-103.6,19.32,"Cuauhtémoc, Col.",18.3,2013-07-01
+-103.88,19.11,"Presa derivadora Jala, Col.",23.3,2013-07-01
+-103.77,18.81,"Laguna de Amela, Col.",23.4,2013-07-01
+-103.73,19.22,"La Posta, Col.",21.8,2013-07-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.2,2013-07-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.6,2013-07-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.6,2013-07-01
+-103.81,19.33,"Peñitas, Col.",22.0,2013-07-01
+-104.1,18.94,"Radar, Col.",24.7,2013-07-01
+-103.87,18.91,"Tecomán, Col.",23.6,2013-07-01
+-103.61,19.25,"Buenavista, Col.",19.2,2013-08-01
+-103.63,18.83,"Callejones, Col.",22.6,2013-08-01
+-103.8,19.21,"Coquimatlán, Col.",22.4,2013-08-01
+-103.6,19.32,"Cuauhtémoc, Col.",17.9,2013-08-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.9,2013-08-01
+-103.77,18.81,"Laguna de Amela, Col.",22.3,2013-08-01
+-103.73,19.22,"La Posta, Col.",21.6,2013-08-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.4,2013-08-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.3,2013-08-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.5,2013-08-01
+-103.81,19.33,"Peñitas, Col.",21.6,2013-08-01
+-104.1,18.94,"Radar, Col.",24.3,2013-08-01
+-103.87,18.91,"Tecomán, Col.",23.0,2013-08-01
+-103.61,19.25,"Buenavista, Col.",19.2,2013-09-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.5,2013-09-01
+-103.63,18.83,"Callejones, Col.",22.6,2013-09-01
+-103.8,19.21,"Coquimatlán, Col.",22.1,2013-09-01
+-103.6,19.32,"Cuauhtémoc, Col.",17.9,2013-09-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.9,2013-09-01
+-103.77,18.81,"Laguna de Amela, Col.",23.2,2013-09-01
+-103.73,19.22,"La Posta, Col.",21.5,2013-09-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.0,2013-09-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.5,2013-09-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.0,2013-09-01
+-103.81,19.33,"Peñitas, Col.",21.6,2013-09-01
+-104.1,18.94,"Radar, Col.",24.4,2013-09-01
+-103.87,18.91,"Tecomán, Col.",22.8,2013-09-01
+-103.61,19.25,"Buenavista, Col.",19.3,2013-10-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.6,2013-10-01
+-103.63,18.83,"Callejones, Col.",22.9,2013-10-01
+-103.8,19.21,"Coquimatlán, Col.",22.4,2013-10-01
+-103.6,19.32,"Cuauhtémoc, Col.",18.0,2013-10-01
+-103.88,19.11,"Presa derivadora Jala, Col.",23.0,2013-10-01
+-103.77,18.81,"Laguna de Amela, Col.",23.2,2013-10-01
+-103.73,19.22,"La Posta, Col.",21.4,2013-10-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.2,2013-10-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.9,2013-10-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.6,2013-10-01
+-103.81,19.33,"Peñitas, Col.",21.3,2013-10-01
+-104.1,18.94,"Radar, Col.",24.8,2013-10-01
+-103.87,18.91,"Tecomán, Col.",23.2,2013-10-01
+-103.61,19.24,BUENAVISTA,17.9,2013-11-01
+-103.63,18.81,CALLEJONES,22.1,2013-11-01
+-103.72,18.75,CERRO DE ORTEGA,22.1,2013-11-01
+-103.72,19.24,COLIMA,20.1,2013-11-01
+-103.8,19.21,COQUIMATLAN,21.4,2013-11-01
+-103.88,19.11,DERIVADORA JALA,21.6,2013-11-01
+-114.73,18.34,ISLA SOCORRO SEMAR,23.1,2013-11-01
+-103.72,19.22,LA POSTA,20.2,2013-11-01
+-103.86,18.9,LAGUNA DE AMELA,21.7,2013-11-01
+-104.33,19.07,MANZANILLO,24.5,2013-11-01
+-104.31,19.04,MANZANILLO,24.5,2013-11-01
+-104.3,19.07,MANZANILLO SEMAR,23.4,2013-11-01
+-103.81,19.26,PE¤ITAS,20.4,2013-11-01
+-103.72,19.22,RADAR,23.5,2013-11-01
+-103.39,18.96,TROJES,18.8,2013-11-01
+-103.73,19.23,OBSERVATORIO COLIMA,19.5,2013-11-01
+-103.73,19.23,COLIMA (AUTOMATICA),19.6,2013-11-01
+-103.61,19.25,"Buenavista, Col.",16.9,2013-12-01
+-103.73,18.76,"Cerro de Ortega, Col.",20.4,2013-12-01
+-103.63,18.83,"Callejones, Col.",20.6,2013-12-01
+-103.8,19.21,"Coquimatlán, Col.",20.1,2013-12-01
+-103.6,19.32,"Cuauhtémoc, Col.",18.0,2013-12-01
+-103.88,19.11,"Presa derivadora Jala, Col.",20.1,2013-12-01
+-103.77,18.81,"Laguna de Amela, Col.",20.0,2013-12-01
+-103.73,19.22,"La Posta, Col.",18.4,2013-12-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.4,2013-12-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",21.9,2013-12-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",23.3,2013-12-01
+-103.81,19.33,"Peñitas, Col.",19.1,2013-12-01
+-104.1,18.94,"Radar, Col.",22.0,2013-12-01
+-103.87,18.91,"Tecomán, Col.",20.6,2013-12-01
+-103.61,19.25,"Buenavista, Col.",15.2,2014-01-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.8,2014-01-01
+-103.63,18.83,"Callejones, Col.",18.8,2014-01-01
+-103.8,19.21,"Coquimatlán, Col.",18.3,2014-01-01
+-103.6,19.32,"Cuauhtémoc, Col.",15.8,2014-01-01
+-103.88,19.11,"Presa derivadora Jala, Col.",18.3,2014-01-01
+-103.77,18.81,"Laguna de Amela, Col.",17.7,2014-01-01
+-103.73,19.22,"La Posta, Col.",17.0,2014-01-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",18.9,2014-01-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",20.0,2014-01-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.6,2014-01-01
+-103.81,19.33,"Peñitas, Col.",17.8,2014-01-01
+-104.1,18.94,"Radar, Col.",20.2,2014-01-01
+-103.87,18.91,"Tecomán, Col.",18.6,2014-01-01
+-103.61,19.25,"Buenavista, Col.",15.1,2014-02-01
+-103.73,18.76,"Cerro de Ortega, Col.",18.3,2014-02-01
+-103.63,18.83,"Callejones, Col.",18.3,2014-02-01
+-103.8,19.21,"Coquimatlán, Col.",17.8,2014-02-01
+-103.6,19.32,"Cuauhtémoc, Col.",16.5,2014-02-01
+-103.88,19.11,"Presa derivadora Jala, Col.",17.6,2014-02-01
+-103.87,19.17,"La Esperanza, Col.",16.0,2014-02-01
+-103.77,18.81,"Laguna de Amela, Col.",18.6,2014-02-01
+-103.73,19.22,"La Posta, Col.",17.5,2014-02-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.5,2014-02-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",20.0,2014-02-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.9,2014-02-01
+-103.81,19.33,"Peñitas, Col.",18.6,2014-02-01
+-104.1,18.94,"Radar, Col.",20.0,2014-02-01
+-103.87,18.91,"Tecomán, Col.",19.8,2014-02-01
+-103.61,19.25,"Buenavista, Col.",15.9,2014-03-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.9,2014-03-01
+-103.63,18.83,"Callejones, Col.",17.5,2014-03-01
+-103.8,19.21,"Coquimatlán, Col.",17.6,2014-03-01
+-103.6,19.32,"Cuauhtémoc, Col.",16.7,2014-03-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.2,2014-03-01
+-103.87,19.17,"La Esperanza, Col.",15.7,2014-03-01
+-103.77,18.81,"Laguna de Amela, Col.",17.8,2014-03-01
+-103.73,19.22,"La Posta, Col.",17.2,2014-03-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.0,2014-03-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.2,2014-03-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",20.7,2014-03-01
+-103.81,19.33,"Peñitas, Col.",18.1,2014-03-01
+-104.1,18.94,"Radar, Col.",17.8,2014-03-01
+-103.87,18.91,"Tecomán, Col.",18.7,2014-03-01
+-103.61,19.25,"Buenavista, Col.",18.0,2014-04-01
+-103.73,18.76,"Cerro de Ortega, Col.",20.4,2014-04-01
+-103.63,18.83,"Callejones, Col.",20.2,2014-04-01
+-103.8,19.21,"Coquimatlán, Col.",19.6,2014-04-01
+-103.6,19.32,"Cuauhtémoc, Col.",19.3,2014-04-01
+-103.88,19.11,"Presa derivadora Jala, Col.",18.4,2014-04-01
+-103.87,19.17,"La Esperanza, Col.",18.1,2014-04-01
+-103.77,18.81,"Laguna de Amela, Col.",20.5,2014-04-01
+-103.73,19.22,"La Posta, Col.",19.7,2014-04-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.3,2014-04-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",20.4,2014-04-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",22.0,2014-04-01
+-103.81,19.33,"Peñitas, Col.",20.0,2014-04-01
+-104.1,18.94,"Radar, Col.",20.6,2014-04-01
+-103.87,18.91,"Tecomán, Col.",20.8,2014-04-01
+-103.61,19.25,"Buenavista, Col.",20.6,2014-05-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.7,2014-05-01
+-103.63,18.83,"Callejones, Col.",22.7,2014-05-01
+-103.8,19.21,"Coquimatlán, Col.",22.0,2014-05-01
+-103.6,19.32,"Cuauhtémoc, Col.",20.5,2014-05-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.7,2014-05-01
+-103.87,19.17,"La Esperanza, Col.",21.4,2014-05-01
+-103.77,18.81,"Laguna de Amela, Col.",23.7,2014-05-01
+-103.73,19.22,"La Posta, Col.",21.9,2014-05-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.8,2014-05-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",23.5,2014-05-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.1,2014-05-01
+-103.81,19.33,"Peñitas, Col.",22.5,2014-05-01
+-104.1,18.94,"Radar, Col.",23.4,2014-05-01
+-103.87,18.91,"Tecomán, Col.",24.7,2014-05-01
+-103.61,19.25,"Buenavista, Col.",21.6,2014-06-01
+-103.73,18.76,"Cerro de Ortega, Col.",25.1,2014-06-01
+-103.63,18.83,"Callejones, Col.",24.7,2014-06-01
+-103.8,19.21,"Coquimatlán, Col.",23.3,2014-06-01
+-103.6,19.32,"Cuauhtémoc, Col.",21.0,2014-06-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.9,2014-06-01
+-103.87,19.17,"La Esperanza, Col.",22.4,2014-06-01
+-103.77,18.81,"Laguna de Amela, Col.",25.2,2014-06-01
+-103.73,19.22,"La Posta, Col.",22.7,2014-06-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.4,2014-06-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.8,2014-06-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.3,2014-06-01
+-103.81,19.33,"Peñitas, Col.",22.7,2014-06-01
+-104.1,18.94,"Radar, Col.",24.6,2014-06-01
+-103.87,18.91,"Tecomán, Col.",25.5,2014-06-01
+-103.61,19.25,"Buenavista, Col.",20.4,2014-07-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.2,2014-07-01
+-103.63,18.83,"Callejones, Col.",23.5,2014-07-01
+-103.8,19.21,"Coquimatlán, Col.",22.4,2014-07-01
+-103.6,19.32,"Cuauhtémoc, Col.",20.9,2014-07-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.0,2014-07-01
+-103.87,19.17,"La Esperanza, Col.",21.1,2014-07-01
+-103.77,18.81,"Laguna de Amela, Col.",24.2,2014-07-01
+-103.73,19.22,"La Posta, Col.",21.9,2014-07-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.5,2014-07-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.9,2014-07-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.3,2014-07-01
+-103.81,19.33,"Peñitas, Col.",22.0,2014-07-01
+-104.1,18.94,"Radar, Col.",24.4,2014-07-01
+-103.87,18.91,"Tecomán, Col.",24.4,2014-07-01
+-103.61,19.25,"Buenavista, Col.",20.8,2014-08-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.2,2014-08-01
+-103.63,18.83,"Callejones, Col.",24.0,2014-08-01
+-103.8,19.21,"Coquimatlán, Col.",22.1,2014-08-01
+-103.6,19.32,"Cuauhtémoc, Col.",20.6,2014-08-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.0,2014-08-01
+-103.87,19.17,"La Esperanza, Col.",21.7,2014-08-01
+-103.77,18.81,"Laguna de Amela, Col.",23.4,2014-08-01
+-103.73,19.22,"La Posta, Col.",21.7,2014-08-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.4,2014-08-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.7,2014-08-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.6,2014-08-01
+-103.81,19.33,"Peñitas, Col.",21.9,2014-08-01
+-104.1,18.94,"Radar, Col.",24.2,2014-08-01
+-103.87,18.91,"Tecomán, Col.",24.4,2014-08-01
+-103.61,19.25,"Buenavista, Col.",20.4,2014-09-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.4,2014-09-01
+-103.63,18.83,"Callejones, Col.",23.1,2014-09-01
+-103.8,19.21,"Coquimatlán, Col.",21.9,2014-09-01
+-103.6,19.32,"Cuauhtémoc, Col.",20.4,2014-09-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.7,2014-09-01
+-103.87,19.17,"La Esperanza, Col.",21.4,2014-09-01
+-103.77,18.81,"Laguna de Amela, Col.",23.5,2014-09-01
+-103.73,19.22,"La Posta, Col.",21.4,2014-09-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.7,2014-09-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.1,2014-09-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.1,2014-09-01
+-103.81,19.33,"Peñitas, Col.",21.3,2014-09-01
+-104.1,18.94,"Radar, Col.",23.4,2014-09-01
+-103.87,18.91,"Tecomán, Col.",24.0,2014-09-01
+-103.61,19.25,"Buenavista, Col.",20.8,2014-10-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.1,2014-10-01
+-103.63,18.83,"Callejones, Col.",23.4,2014-10-01
+-103.8,19.21,"Coquimatlán, Col.",22.5,2014-10-01
+-103.6,19.32,"Cuauhtémoc, Col.",20.5,2014-10-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.3,2014-10-01
+-103.87,19.17,"La Esperanza, Col.",21.7,2014-10-01
+-103.77,18.81,"Laguna de Amela, Col.",24.0,2014-10-01
+-103.73,19.22,"La Posta, Col.",21.9,2014-10-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.7,2014-10-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.7,2014-10-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.7,2014-10-01
+-103.81,19.33,"Peñitas, Col.",21.9,2014-10-01
+-104.1,18.94,"Radar, Col.",24.1,2014-10-01
+-103.87,18.91,"Tecomán, Col.",24.9,2014-10-01
+-103.61,19.25,"Buenavista, Col.",17.5,2014-11-01
+-103.73,18.76,"Cerro de Ortega, Col.",20.9,2014-11-01
+-103.63,18.83,"Callejones, Col.",21.8,2014-11-01
+-103.8,19.21,"Coquimatlán, Col.",20.4,2014-11-01
+-103.6,19.33,"Cuauhtémoc, Col.",18.1,2014-11-01
+-103.88,19.11,"Presa derivadora Jala, Col.",19.7,2014-11-01
+-103.87,19.17,"La Esperanza, Col.",18.3,2014-11-01
+-103.77,18.81,"Laguna de Amela, Col.",20.9,2014-11-01
+-103.73,19.22,"La Posta, Col.",19.1,2014-11-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.1,2014-11-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",22.4,2014-11-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",23.7,2014-11-01
+-103.81,19.33,"Peñitas, Col.",19.9,2014-11-01
+-104.1,18.94,"Radar, Col.",22.1,2014-11-01
+-103.87,18.91,"Tecomán, Col.",21.9,2014-11-01
+-103.61,19.25,"Buenavista, Col.",32.7,2014-12-01
+-103.73,18.76,"Cerro de Ortega, Col.",32.5,2014-12-01
+-103.63,18.83,"Callejones, Col.",32.9,2014-12-01
+-103.8,19.21,"Coquimatlán, Col.",31.9,2014-12-01
+-103.6,19.33,"Cuauhtémoc, Col.",29.1,2014-12-01
+-103.88,19.11,"Presa derivadora Jala, Col.",32.6,2014-12-01
+-103.87,19.17,"La Esperanza, Col.",32.2,2014-12-01
+-103.77,18.81,"Laguna de Amela, Col.",32.0,2014-12-01
+-103.73,19.22,"La Posta, Col.",32.2,2014-12-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",27.4,2014-12-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",29.7,2014-12-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",30.8,2014-12-01
+-103.81,19.33,"Peñitas, Col.",32.8,2014-12-01
+-104.1,18.94,"Radar, Col.",32.0,2014-12-01
+-103.87,18.91,"Tecomán, Col.",34.8,2014-12-01
+-103.61,19.25,"Buenavista, Col.",18.3,2015-01-01
+-103.73,18.76,"Cerro de Ortega, Col.",18.3,2015-01-01
+-103.63,18.83,"Callejones, Col.",18.3,2015-01-01
+-103.8,19.21,"Coquimatlán, Col.",18.3,2015-01-01
+-103.6,19.33,"Cuauhtémoc, Col.",18.3,2015-01-01
+-103.88,19.11,"Presa derivadora Jala, Col.",18.3,2015-01-01
+-103.87,19.17,"La Esperanza, Col.",18.3,2015-01-01
+-103.77,18.81,"Laguna de Amela, Col.",18.3,2015-01-01
+-103.73,19.22,"La Posta, Col.",18.3,2015-01-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",18.3,2015-01-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",18.3,2015-01-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",18.3,2015-01-01
+-103.81,19.33,"Peñitas, Col.",18.3,2015-01-01
+-104.1,18.94,"Radar, Col.",18.3,2015-01-01
+-103.87,18.91,"Tecomán, Col.",18.3,2015-01-01
+-103.61,19.25,"Buenavista, Col.",15.2,2015-02-01
+-103.73,18.76,"Cerro de Ortega, Col.",18.1,2015-02-01
+-103.63,18.83,"Callejones, Col.",18.7,2015-02-01
+-103.8,19.21,"Coquimatlán, Col.",17.6,2015-02-01
+-103.6,19.33,"Cuauhtémoc, Col.",15.9,2015-02-01
+-103.88,19.11,"Presa derivadora Jala, Col.",17.3,2015-02-01
+-103.87,19.17,"La Esperanza, Col.",15.7,2015-02-01
+-103.77,18.81,"Laguna de Amela, Col.",17.9,2015-02-01
+-103.73,19.22,"La Posta, Col.",16.9,2015-02-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",18.6,2015-02-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.4,2015-02-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.2,2015-02-01
+-103.81,19.33,"Peñitas, Col.",17.8,2015-02-01
+-104.1,18.94,"Radar, Col.",19.0,2015-02-01
+-103.87,18.91,"Tecomán, Col.",18.6,2015-02-01
+-103.61,19.25,"Buenavista, Col.",16.3,2015-03-01
+-103.73,18.76,"Cerro de Ortega, Col.",18.0,2015-03-01
+-103.63,18.83,"Callejones, Col.",18.6,2015-03-01
+-103.8,19.21,"Coquimatlán, Col.",18.4,2015-03-01
+-103.6,19.33,"Cuauhtémoc, Col.",17.5,2015-03-01
+-103.88,19.11,"Presa derivadora Jala, Col.",17.1,2015-03-01
+-103.87,19.17,"La Esperanza, Col.",15.5,2015-03-01
+-103.77,18.81,"Laguna de Amela, Col.",18.0,2015-03-01
+-103.73,19.22,"La Posta, Col.",17.6,2015-03-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.9,2015-03-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.3,2015-03-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.3,2015-03-01
+-103.81,19.33,"Peñitas, Col.",18.3,2015-03-01
+-104.1,18.94,"Radar, Col.",19.3,2015-03-01
+-103.87,18.91,"Tecomán, Col.",18.7,2015-03-01
+-103.61,19.25,"Buenavista, Col.",18.2,2015-04-01
+-103.73,18.76,"Cerro de Ortega, Col.",19.8,2015-04-01
+-103.63,18.83,"Callejones, Col.",20.3,2015-04-01
+-103.8,19.21,"Coquimatlán, Col.",19.5,2015-04-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.2,2015-04-01
+-103.88,19.11,"Presa derivadora Jala, Col.",18.7,2015-04-01
+-103.87,19.17,"La Esperanza, Col.",17.9,2015-04-01
+-103.77,18.81,"Laguna de Amela, Col.",19.7,2015-04-01
+-103.73,19.22,"La Posta, Col.",19.2,2015-04-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.7,2015-04-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",20.5,2015-04-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",22.8,2015-04-01
+-103.81,19.33,"Peñitas, Col.",20.0,2015-04-01
+-104.1,18.94,"Radar, Col.",20.7,2015-04-01
+-103.87,18.91,"Tecomán, Col.",20.6,2015-04-01
+-103.61,19.25,"Buenavista, Col.",20.1,2015-05-01
+-103.73,18.76,"Cerro de Ortega, Col.",22.5,2015-05-01
+-103.63,18.83,"Callejones, Col.",23.2,2015-05-01
+-103.8,19.21,"Coquimatlán, Col.",21.0,2015-05-01
+-103.6,19.33,"Cuauhtémoc, Col.",20.7,2015-05-01
+-103.88,19.11,"Presa derivadora Jala, Col.",20.6,2015-05-01
+-103.87,19.17,"La Esperanza, Col.",20.4,2015-05-01
+-103.77,18.81,"Laguna de Amela, Col.",22.5,2015-05-01
+-103.73,19.22,"La Posta, Col.",21.4,2015-05-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.9,2015-05-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",22.8,2015-05-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",24.8,2015-05-01
+-103.81,19.33,"Peñitas, Col.",21.6,2015-05-01
+-104.1,18.94,"Radar, Col.",22.5,2015-05-01
+-103.87,18.91,"Tecomán, Col.",22.1,2015-05-01
+-103.61,19.25,"Buenavista, Col.",21.8,2015-06-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.6,2015-06-01
+-103.63,18.83,"Callejones, Col.",24.9,2015-06-01
+-103.8,19.21,"Coquimatlán, Col.",22.7,2015-06-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.9,2015-06-01
+-103.88,19.11,"Presa derivadora Jala, Col.",23.0,2015-06-01
+-103.87,19.17,"La Esperanza, Col.",22.7,2015-06-01
+-103.77,18.81,"Laguna de Amela, Col.",24.5,2015-06-01
+-103.73,19.22,"La Posta, Col.",23.0,2015-06-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",22.3,2015-06-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.9,2015-06-01
+-103.81,19.33,"Peñitas, Col.",23.3,2015-06-01
+-104.1,18.94,"Radar, Col.",24.9,2015-06-01
+-103.87,18.91,"Tecomán, Col.",24.4,2015-06-01
+-103.61,19.25,"Buenavista, Col.",20.0,2015-07-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.6,2015-07-01
+-103.63,18.83,"Callejones, Col.",24.2,2015-07-01
+-103.8,19.21,"Coquimatlán, Col.",22.3,2015-07-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.1,2015-07-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.0,2015-07-01
+-103.87,19.17,"La Esperanza, Col.",21.7,2015-07-01
+-103.77,18.81,"Laguna de Amela, Col.",23.6,2015-07-01
+-103.73,19.22,"La Posta, Col.",22.3,2015-07-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.9,2015-07-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.3,2015-07-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.5,2015-07-01
+-103.81,19.33,"Peñitas, Col.",22.1,2015-07-01
+-104.1,18.94,"Radar, Col.",24.8,2015-07-01
+-103.87,18.91,"Tecomán, Col.",23.4,2015-07-01
+-103.61,19.25,"Buenavista, Col.",20.4,2015-08-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.2,2015-08-01
+-103.63,18.83,"Callejones, Col.",24.5,2015-08-01
+-103.8,19.21,"Coquimatlán, Col.",22.5,2015-08-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.2,2015-08-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.2,2015-08-01
+-103.87,19.17,"La Esperanza, Col.",21.9,2015-08-01
+-103.77,18.81,"Laguna de Amela, Col.",24.2,2015-08-01
+-103.73,19.22,"La Posta, Col.",22.2,2015-08-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.9,2015-08-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.2,2015-08-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.5,2015-08-01
+-103.81,19.33,"Peñitas, Col.",22.2,2015-08-01
+-104.1,18.94,"Radar, Col.",25.1,2015-08-01
+-103.87,18.91,"Tecomán, Col.",23.7,2015-08-01
+-103.61,19.25,"Buenavista, Col.",20.4,2015-09-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.2,2015-09-01
+-103.63,18.83,"Callejones, Col.",24.5,2015-09-01
+-103.8,19.21,"Coquimatlán, Col.",22.5,2015-09-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.2,2015-09-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.3,2015-09-01
+-103.87,19.17,"La Esperanza, Col.",21.8,2015-09-01
+-103.77,18.81,"Laguna de Amela, Col.",23.7,2015-09-01
+-103.73,19.22,"La Posta, Col.",21.8,2015-09-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.6,2015-09-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.0,2015-09-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.0,2015-09-01
+-103.81,19.33,"Peñitas, Col.",22.2,2015-09-01
+-104.1,18.94,"Radar, Col.",24.6,2015-09-01
+-103.87,18.91,"Tecomán, Col.",22.4,2015-09-01
+-103.61,19.25,"Buenavista, Col.",20.5,2015-10-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.2,2015-10-01
+-103.63,18.83,"Callejones, Col.",24.0,2015-10-01
+-103.8,19.21,"Coquimatlán, Col.",22.5,2015-10-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.0,2015-10-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.9,2015-10-01
+-103.87,19.17,"La Esperanza, Col.",22.0,2015-10-01
+-103.77,18.81,"Laguna de Amela, Col.",24.1,2015-10-01
+-103.73,19.22,"La Posta, Col.",21.9,2015-10-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",22.2,2015-10-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.0,2015-10-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.4,2015-10-01
+-103.81,19.33,"Peñitas, Col.",22.5,2015-10-01
+-104.1,18.94,"Radar, Col.",24.5,2015-10-01
+-103.87,18.91,"Tecomán, Col.",22.2,2015-10-01
+-103.61,19.25,"Buenavista, Col.",19.6,2015-11-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.8,2015-11-01
+-103.63,18.83,"Callejones, Col.",23.7,2015-11-01
+-103.8,19.21,"Coquimatlán, Col.",22.3,2015-11-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.0,2015-11-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.3,2015-11-01
+-103.87,19.17,"La Esperanza, Col.",21.5,2015-11-01
+-103.77,18.81,"Laguna de Amela, Col.",23.7,2015-11-01
+-103.73,19.22,"La Posta, Col.",21.8,2015-11-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",22.0,2015-11-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.7,2015-11-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.2,2015-11-01
+-103.81,19.33,"Peñitas, Col.",22.2,2015-11-01
+-104.1,18.94,"Radar, Col.",24.7,2015-11-01
+-103.87,18.91,"Tecomán, Col.",21.4,2015-11-01
+-103.61,19.25,"Buenavista, Col.",31.5,2015-12-01
+-103.73,18.76,"Cerro de Ortega, Col.",34.0,2015-12-01
+-103.63,18.83,"Callejones, Col.",35.5,2015-12-01
+-103.8,19.21,"Coquimatlán, Col.",32.6,2015-12-01
+-103.6,19.33,"Cuauhtémoc, Col.",29.9,2015-12-01
+-103.88,19.11,"Presa derivadora Jala, Col.",34.6,2015-12-01
+-103.87,19.17,"La Esperanza, Col.",33.0,2015-12-01
+-103.77,18.81,"Laguna de Amela, Col.",33.3,2015-12-01
+-103.73,19.22,"La Posta, Col.",32.9,2015-12-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",27.8,2015-12-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",31.7,2015-12-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",32.5,2015-12-01
+-103.81,19.33,"Peñitas, Col.",32.6,2015-12-01
+-104.1,18.94,"Radar, Col.",33.3,2015-12-01
+-103.87,18.91,"Tecomán, Col.",33.5,2015-12-01
+-103.61,19.25,"Buenavista, Col.",14.1,2016-01-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.9,2016-01-01
+-103.63,18.83,"Callejones, Col.",19.7,2016-01-01
+-103.8,19.21,"Coquimatlán, Col.",17.2,2016-01-01
+-103.6,19.33,"Cuauhtémoc, Col.",16.4,2016-01-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.3,2016-01-01
+-103.87,19.17,"La Esperanza, Col.",14.2,2016-01-01
+-103.77,18.81,"Laguna de Amela, Col.",17.7,2016-01-01
+-103.73,19.22,"La Posta, Col.",16.2,2016-01-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",18.3,2016-01-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.7,2016-01-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.8,2016-01-01
+-103.81,19.33,"Peñitas, Col.",16.5,2016-01-01
+-104.1,18.94,"Radar, Col.",18.9,2016-01-01
+-103.87,18.91,"Tecomán, Col.",19.0,2016-01-01
+-103.61,19.25,"Buenavista, Col.",15.0,2016-02-01
+-103.73,18.76,"Cerro de Ortega, Col.",18.7,2016-02-01
+-103.63,18.83,"Callejones, Col.",19.4,2016-02-01
+-103.8,19.21,"Coquimatlán, Col.",18.4,2016-02-01
+-103.6,19.33,"Cuauhtémoc, Col.",17.5,2016-02-01
+-103.88,19.11,"Presa derivadora Jala, Col.",17.2,2016-02-01
+-103.87,19.17,"La Esperanza, Col.",15.7,2016-02-01
+-103.77,18.81,"Laguna de Amela, Col.",18.4,2016-02-01
+-103.73,19.22,"La Posta, Col.",17.5,2016-02-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.8,2016-02-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",20.8,2016-02-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",23.1,2016-02-01
+-103.81,19.33,"Peñitas, Col.",18.7,2016-02-01
+-104.1,18.94,"Radar, Col.",20.1,2016-02-01
+-103.87,18.91,"Tecomán, Col.",19.8,2016-02-01
+-103.61,19.25,"Buenavista, Col.",15.0,2016-03-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.1,2016-03-01
+-103.63,18.83,"Callejones, Col.",17.9,2016-03-01
+-103.8,19.21,"Coquimatlán, Col.",17.4,2016-03-01
+-103.6,19.33,"Cuauhtémoc, Col.",17.5,2016-03-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.2,2016-03-01
+-103.87,19.17,"La Esperanza, Col.",14.8,2016-03-01
+-103.77,18.81,"Laguna de Amela, Col.",16.9,2016-03-01
+-103.73,19.22,"La Posta, Col.",16.3,2016-03-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.3,2016-03-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",18.7,2016-03-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.0,2016-03-01
+-103.81,19.33,"Peñitas, Col.",17.5,2016-03-01
+-104.1,18.94,"Radar, Col.",17.7,2016-03-01
+-103.87,18.91,"Tecomán, Col.",18.5,2016-03-01
+-103.61,19.25,"Buenavista, Col.",16.9,2016-04-01
+-103.73,18.76,"Cerro de Ortega, Col.",18.7,2016-04-01
+-103.63,18.83,"Callejones, Col.",19.1,2016-04-01
+-103.8,19.21,"Coquimatlán, Col.",18.4,2016-04-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.5,2016-04-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.9,2016-04-01
+-103.87,19.17,"La Esperanza, Col.",15.9,2016-04-01
+-103.77,18.81,"Laguna de Amela, Col.",18.6,2016-04-01
+-103.73,19.22,"La Posta, Col.",18.3,2016-04-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.8,2016-04-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.1,2016-04-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.6,2016-04-01
+-103.81,19.33,"Peñitas, Col.",19.3,2016-04-01
+-104.1,18.94,"Radar, Col.",19.2,2016-04-01
+-103.87,18.91,"Tecomán, Col.",19.3,2016-04-01
+-103.61,19.25,"Buenavista, Col.",19.4,2016-05-01
+-103.73,18.76,"Cerro de Ortega, Col.",19.4,2016-05-01
+-103.63,18.83,"Callejones, Col.",21.7,2016-05-01
+-103.8,19.21,"Coquimatlán, Col.",20.9,2016-05-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.2,2016-05-01
+-103.88,19.11,"Presa derivadora Jala, Col.",20.0,2016-05-01
+-103.87,19.17,"La Esperanza, Col.",19.3,2016-05-01
+-103.77,18.81,"Laguna de Amela, Col.",19.4,2016-05-01
+-103.73,19.22,"La Posta, Col.",20.7,2016-05-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",22.2,2016-05-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",21.4,2016-05-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",23.3,2016-05-01
+-103.81,19.33,"Peñitas, Col.",21.0,2016-05-01
+-104.1,18.94,"Radar, Col.",21.5,2016-05-01
+-103.87,18.91,"Tecomán, Col.",21.8,2016-05-01
+-103.61,19.25,"Buenavista, Col.",20.5,2016-06-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.5,2016-06-01
+-103.63,18.83,"Callejones, Col.",23.8,2016-06-01
+-103.8,19.21,"Coquimatlán, Col.",22.5,2016-06-01
+-103.6,19.33,"Cuauhtémoc, Col.",20.9,2016-06-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.7,2016-06-01
+-103.87,19.17,"La Esperanza, Col.",21.9,2016-06-01
+-103.77,18.81,"Laguna de Amela, Col.",23.5,2016-06-01
+-103.73,19.22,"La Posta, Col.",22.0,2016-06-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.6,2016-06-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.4,2016-06-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.8,2016-06-01
+-103.81,19.33,"Peñitas, Col.",22.4,2016-06-01
+-104.1,18.94,"Radar, Col.",23.5,2016-06-01
+-103.87,18.91,"Tecomán, Col.",23.9,2016-06-01
+-103.61,19.25,"Buenavista, Col.",20.6,2016-07-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.6,2016-07-01
+-103.63,18.83,"Callejones, Col.",24.6,2016-07-01
+-103.8,19.21,"Coquimatlán, Col.",22.8,2016-07-01
+-103.6,19.33,"Cuauhtémoc, Col.",20.6,2016-07-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.0,2016-07-01
+-103.87,19.17,"La Esperanza, Col.",21.3,2016-07-01
+-103.77,18.81,"Laguna de Amela, Col.",23.6,2016-07-01
+-103.73,19.22,"La Posta, Col.",21.9,2016-07-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.4,2016-07-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.1,2016-07-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.1,2016-07-01
+-103.81,19.33,"Peñitas, Col.",22.1,2016-07-01
+-104.1,18.94,"Radar, Col.",24.5,2016-07-01
+-103.87,18.91,"Tecomán, Col.",24.5,2016-07-01
+-103.61,19.25,"Buenavista, Col.",22.6,2016-08-01
+-103.73,18.76,"Cerro de Ortega, Col.",22.6,2016-08-01
+-103.63,18.83,"Callejones, Col.",22.6,2016-08-01
+-103.8,19.21,"Coquimatlán, Col.",22.6,2016-08-01
+-103.6,19.33,"Cuauhtémoc, Col.",22.6,2016-08-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.6,2016-08-01
+-103.87,19.17,"La Esperanza, Col.",22.6,2016-08-01
+-103.77,18.81,"Laguna de Amela, Col.",22.6,2016-08-01
+-103.73,19.22,"La Posta, Col.",22.6,2016-08-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",22.6,2016-08-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",22.6,2016-08-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",22.6,2016-08-01
+-103.81,19.33,"Peñitas, Col.",22.6,2016-08-01
+-104.1,18.94,"Radar, Col.",22.6,2016-08-01
+-103.87,18.91,"Tecomán, Col.",22.6,2016-08-01
+-103.61,19.25,"Buenavista, Col.",19.9,2016-09-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.3,2016-09-01
+-103.63,18.83,"Callejones, Col.",23.9,2016-09-01
+-103.8,19.21,"Coquimatlán, Col.",22.0,2016-09-01
+-103.6,19.33,"Cuauhtémoc, Col.",20.3,2016-09-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.6,2016-09-01
+-103.87,19.17,"La Esperanza, Col.",20.6,2016-09-01
+-103.77,18.81,"Laguna de Amela, Col.",23.3,2016-09-01
+-103.73,19.22,"La Posta, Col.",21.7,2016-09-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.4,2016-09-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.8,2016-09-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.9,2016-09-01
+-103.81,19.33,"Peñitas, Col.",21.7,2016-09-01
+-104.1,18.94,"Radar, Col.",24.0,2016-09-01
+-103.87,18.91,"Tecomán, Col.",23.5,2016-09-01
+-103.61,19.25,"Buenavista, Col.",20.2,2016-10-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.0,2016-10-01
+-103.63,18.83,"Callejones, Col.",24.3,2016-10-01
+-103.8,19.21,"Coquimatlán, Col.",22.7,2016-10-01
+-103.6,19.33,"Cuauhtémoc, Col.",21.0,2016-10-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.1,2016-10-01
+-103.87,19.17,"La Esperanza, Col.",21.3,2016-10-01
+-103.77,18.81,"Laguna de Amela, Col.",23.0,2016-10-01
+-103.73,19.22,"La Posta, Col.",21.8,2016-10-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.6,2016-10-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.0,2016-10-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.3,2016-10-01
+-103.81,19.33,"Peñitas, Col.",22.2,2016-10-01
+-104.1,18.94,"Radar, Col.",24.9,2016-10-01
+-103.87,18.91,"Tecomán, Col.",24.9,2016-10-01
+-103.61,19.25,"Buenavista, Col.",18.0,2016-11-01
+-103.73,18.76,"Cerro de Ortega, Col.",22.0,2016-11-01
+-103.63,18.83,"Callejones, Col.",23.1,2016-11-01
+-103.8,19.21,"Coquimatlán, Col.",21.3,2016-11-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.6,2016-11-01
+-103.88,19.11,"Presa derivadora Jala, Col.",20.2,2016-11-01
+-103.87,19.17,"La Esperanza, Col.",19.1,2016-11-01
+-103.77,18.81,"Laguna de Amela, Col.",21.9,2016-11-01
+-103.73,19.22,"La Posta, Col.",20.1,2016-11-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.7,2016-11-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",23.3,2016-11-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",24.9,2016-11-01
+-103.81,19.33,"Peñitas, Col.",20.6,2016-11-01
+-104.1,18.94,"Radar, Col.",22.8,2016-11-01
+-103.87,18.91,"Tecomán, Col.",22.7,2016-11-01
+-103.61,19.25,"Buenavista, Col.",33.3,2016-12-01
+-103.73,18.76,"Cerro de Ortega, Col.",34.0,2016-12-01
+-103.63,18.83,"Callejones, Col.",36.5,2016-12-01
+-103.8,19.21,"Coquimatlán, Col.",33.3,2016-12-01
+-103.6,19.33,"Cuauhtémoc, Col.",30.1,2016-12-01
+-103.88,19.11,"Presa derivadora Jala, Col.",32.5,2016-12-01
+-103.87,19.17,"La Esperanza, Col.",34.3,2016-12-01
+-103.77,18.81,"Laguna de Amela, Col.",33.2,2016-12-01
+-103.73,19.22,"La Posta, Col.",34.2,2016-12-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",29.1,2016-12-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",30.0,2016-12-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",31.7,2016-12-01
+-103.81,19.33,"Peñitas, Col.",35.0,2016-12-01
+-104.1,18.94,"Radar, Col.",32.5,2016-12-01
+-103.87,18.91,"Tecomán, Col.",36.4,2016-12-01
+-103.61,19.25,"Buenavista, Col.",14.4,2017-01-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.2,2017-01-01
+-103.63,18.83,"Callejones, Col.",18.5,2017-01-01
+-103.8,19.21,"Coquimatlán, Col.",17.5,2017-01-01
+-103.6,19.33,"Cuauhtémoc, Col.",17.0,2017-01-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.2,2017-01-01
+-103.87,19.17,"La Esperanza, Col.",14.0,2017-01-01
+-103.77,18.81,"Laguna de Amela, Col.",17.3,2017-01-01
+-103.73,19.22,"La Posta, Col.",16.5,2017-01-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.0,2017-01-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.2,2017-01-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.8,2017-01-01
+-103.81,19.33,"Peñitas, Col.",18.0,2017-01-01
+-104.1,18.94,"Radar, Col.",19.3,2017-01-01
+-103.87,18.91,"Tecomán, Col.",19.2,2017-01-01
+-103.61,19.25,"Buenavista, Col.",14.8,2017-02-01
+-103.73,18.76,"Cerro de Ortega, Col.",16.4,2017-02-01
+-103.63,18.83,"Callejones, Col.",18.0,2017-02-01
+-103.8,19.21,"Coquimatlán, Col.",17.5,2017-02-01
+-103.6,19.33,"Cuauhtémoc, Col.",17.1,2017-02-01
+-103.88,19.11,"Presa derivadora Jala, Col.",16.0,2017-02-01
+-103.87,19.17,"La Esperanza, Col.",14.3,2017-02-01
+-103.77,18.81,"Laguna de Amela, Col.",16.5,2017-02-01
+-103.73,19.22,"La Posta, Col.",17.0,2017-02-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",19.6,2017-02-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",18.7,2017-02-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",20.9,2017-02-01
+-103.81,19.33,"Peñitas, Col.",18.0,2017-02-01
+-104.1,18.94,"Radar, Col.",17.9,2017-02-01
+-103.87,18.91,"Tecomán, Col.",18.5,2017-02-01
+-103.61,19.25,"Buenavista, Col.",17.5,2017-03-01
+-103.73,18.76,"Cerro de Ortega, Col.",17.5,2017-03-01
+-103.63,18.83,"Callejones, Col.",19.7,2017-03-01
+-103.8,19.21,"Coquimatlán, Col.",19.4,2017-03-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.4,2017-03-01
+-103.88,19.11,"Presa derivadora Jala, Col.",17.4,2017-03-01
+-103.87,19.17,"La Esperanza, Col.",15.8,2017-03-01
+-103.77,18.81,"Laguna de Amela, Col.",17.5,2017-03-01
+-103.73,19.22,"La Posta, Col.",19.2,2017-03-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.2,2017-03-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.9,2017-03-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.9,2017-03-01
+-103.81,19.33,"Peñitas, Col.",19.9,2017-03-01
+-104.1,18.94,"Radar, Col.",19.5,2017-03-01
+-103.87,18.91,"Tecomán, Col.",19.9,2017-03-01
+-103.61,19.25,"Buenavista, Col.",15.3,2017-04-01
+-103.73,18.76,"Cerro de Ortega, Col.",16.6,2017-04-01
+-103.63,18.83,"Callejones, Col.",18.1,2017-04-01
+-103.8,19.21,"Coquimatlán, Col.",17.1,2017-04-01
+-103.6,19.33,"Cuauhtémoc, Col.",18.8,2017-04-01
+-103.88,19.11,"Presa derivadora Jala, Col.",14.9,2017-04-01
+-103.87,19.17,"La Esperanza, Col.",13.6,2017-04-01
+-103.77,18.81,"Laguna de Amela, Col.",16.6,2017-04-01
+-103.73,19.22,"La Posta, Col.",16.9,2017-04-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.8,2017-04-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",18.4,2017-04-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",20.2,2017-04-01
+-103.81,19.33,"Peñitas, Col.",17.9,2017-04-01
+-104.1,18.94,"Radar, Col.",17.3,2017-04-01
+-103.87,18.91,"Tecomán, Col.",18.2,2017-04-01
+-103.61,19.25,"Buenavista, Col.",17.7,2017-05-01
+-103.73,18.76,"Cerro de Ortega, Col.",19.8,2017-05-01
+-103.63,18.83,"Callejones, Col.",20.4,2017-05-01
+-103.8,19.21,"Coquimatlán, Col.",19.5,2017-05-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.3,2017-05-01
+-103.88,19.11,"Presa derivadora Jala, Col.",17.9,2017-05-01
+-103.87,19.17,"La Esperanza, Col.",16.8,2017-05-01
+-103.77,18.81,"Laguna de Amela, Col.",19.5,2017-05-01
+-103.73,19.22,"La Posta, Col.",19.5,2017-05-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.5,2017-05-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",19.9,2017-05-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",21.7,2017-05-01
+-103.81,19.33,"Peñitas, Col.",20.0,2017-05-01
+-104.1,18.94,"Radar, Col.",19.4,2017-05-01
+-103.87,18.91,"Tecomán, Col.",20.6,2017-05-01
+-103.61,19.25,"Buenavista, Col.",21.7,2017-06-01
+-103.73,18.76,"Cerro de Ortega, Col.",24.6,2017-06-01
+-103.63,18.83,"Callejones, Col.",23.6,2017-06-01
+-103.8,19.21,"Coquimatlán, Col.",23.2,2017-06-01
+-103.6,19.33,"Cuauhtémoc, Col.",20.3,2017-06-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.6,2017-06-01
+-103.87,19.17,"La Esperanza, Col.",22.1,2017-06-01
+-103.77,18.81,"Laguna de Amela, Col.",24.5,2017-06-01
+-103.73,19.22,"La Posta, Col.",22.8,2017-06-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.8,2017-06-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.7,2017-06-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.6,2017-06-01
+-103.81,19.33,"Peñitas, Col.",23.4,2017-06-01
+-104.1,18.94,"Radar, Col.",23.9,2017-06-01
+-103.87,18.91,"Tecomán, Col.",24.7,2017-06-01
+-103.61,19.25,"Buenavista, Col.",20.0,2017-07-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.7,2017-07-01
+-103.63,18.83,"Callejones, Col.",24.6,2017-07-01
+-103.8,19.21,"Coquimatlán, Col.",22.2,2017-07-01
+-103.6,19.33,"Cuauhtémoc, Col.",20.4,2017-07-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.8,2017-07-01
+-103.87,19.17,"La Esperanza, Col.",20.9,2017-07-01
+-103.77,18.81,"Laguna de Amela, Col.",22.9,2017-07-01
+-103.73,19.22,"La Posta, Col.",21.7,2017-07-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.2,2017-07-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.2,2017-07-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.9,2017-07-01
+-103.81,19.33,"Peñitas, Col.",22.2,2017-07-01
+-104.1,18.94,"Radar, Col.",24.8,2017-07-01
+-103.87,18.91,"Tecomán, Col.",24.5,2017-07-01
+-103.61,19.25,"Buenavista, Col.",21.0,2017-08-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.5,2017-08-01
+-103.63,18.83,"Callejones, Col.",24.4,2017-08-01
+-103.8,19.21,"Coquimatlán, Col.",22.7,2017-08-01
+-103.6,19.33,"Cuauhtémoc, Col.",20.3,2017-08-01
+-103.88,19.11,"Presa derivadora Jala, Col.",22.1,2017-08-01
+-103.87,19.17,"La Esperanza, Col.",21.4,2017-08-01
+-103.77,18.81,"Laguna de Amela, Col.",23.3,2017-08-01
+-103.73,19.22,"La Posta, Col.",22.5,2017-08-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.8,2017-08-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",25.5,2017-08-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",26.2,2017-08-01
+-103.81,19.33,"Peñitas, Col.",22.3,2017-08-01
+-104.1,18.94,"Radar, Col.",24.4,2017-08-01
+-103.87,18.91,"Tecomán, Col.",24.1,2017-08-01
+-103.61,19.25,"Buenavista, Col.",20.6,2017-09-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.5,2017-09-01
+-103.63,18.83,"Callejones, Col.",24.1,2017-09-01
+-103.8,19.21,"Coquimatlán, Col.",22.3,2017-09-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.8,2017-09-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.6,2017-09-01
+-103.87,19.17,"La Esperanza, Col.",21.2,2017-09-01
+-103.77,18.81,"Laguna de Amela, Col.",23.4,2017-09-01
+-103.73,19.22,"La Posta, Col.",21.8,2017-09-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.4,2017-09-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.8,2017-09-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",24.9,2017-09-01
+-103.81,19.33,"Peñitas, Col.",21.9,2017-09-01
+-104.1,18.94,"Radar, Col.",23.8,2017-09-01
+-103.87,18.91,"Tecomán, Col.",23.8,2017-09-01
+-103.61,19.25,"Buenavista, Col.",20.0,2017-10-01
+-103.73,18.76,"Cerro de Ortega, Col.",23.4,2017-10-01
+-103.63,18.83,"Callejones, Col.",23.9,2017-10-01
+-103.8,19.21,"Coquimatlán, Col.",21.7,2017-10-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.8,2017-10-01
+-103.88,19.11,"Presa derivadora Jala, Col.",21.1,2017-10-01
+-103.87,19.17,"La Esperanza, Col.",20.4,2017-10-01
+-103.77,18.81,"Laguna de Amela, Col.",23.4,2017-10-01
+-103.73,19.22,"La Posta, Col.",21.5,2017-10-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",21.5,2017-10-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.7,2017-10-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",25.5,2017-10-01
+-103.81,19.33,"Peñitas, Col.",21.5,2017-10-01
+-104.1,18.94,"Radar, Col.",24.5,2017-10-01
+-103.87,18.91,"Tecomán, Col.",24.1,2017-10-01
+-103.61,19.25,"Buenavista, Col.",18.9,2017-11-01
+-103.73,18.76,"Cerro de Ortega, Col.",22.1,2017-11-01
+-103.63,18.83,"Callejones, Col.",23.1,2017-11-01
+-103.8,19.21,"Coquimatlán, Col.",21.6,2017-11-01
+-103.6,19.33,"Cuauhtémoc, Col.",19.2,2017-11-01
+-103.88,19.11,"Presa derivadora Jala, Col.",20.5,2017-11-01
+-103.87,19.17,"La Esperanza, Col.",19.7,2017-11-01
+-103.77,18.81,"Laguna de Amela, Col.",21.9,2017-11-01
+-103.73,19.22,"La Posta, Col.",20.5,2017-11-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",20.8,2017-11-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",24.0,2017-11-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",24.8,2017-11-01
+-103.81,19.33,"Peñitas, Col.",21.0,2017-11-01
+-104.1,18.94,"Radar, Col.",23.0,2017-11-01
+-103.87,18.91,"Tecomán, Col.",23.0,2017-11-01
+-103.61,19.25,"Buenavista, Col.",32.7,2017-12-01
+-103.73,18.76,"Cerro de Ortega, Col.",33.3,2017-12-01
+-103.63,18.83,"Callejones, Col.",35.6,2017-12-01
+-103.8,19.21,"Coquimatlán, Col.",32.7,2017-12-01
+-103.6,19.33,"Cuauhtémoc, Col.",30.0,2017-12-01
+-103.88,19.11,"Presa derivadora Jala, Col.",33.5,2017-12-01
+-103.87,19.17,"La Esperanza, Col.",34.2,2017-12-01
+-103.77,18.81,"Laguna de Amela, Col.",32.7,2017-12-01
+-103.73,19.22,"La Posta, Col.",33.0,2017-12-01
+-103.58,19.28,"Aeropuerto Nacional de Colima, Col.*",28.2,2017-12-01
+-104.56,19.15,"Aeropuerto Internacional de Manzanillo-Costalegre, Col.*",30.6,2017-12-01
+-104.32,19.04,"Observatorio de Manzanillo, Col.",31.6,2017-12-01
+-103.81,19.33,"Peñitas, Col.",33.3,2017-12-01
+-104.1,18.94,"Radar, Col.",32.6,2017-12-01
+-103.87,18.91,"Tecomán, Col.",35.6,2017-12-01
+-103.61,19.24,BUENAVISTA,15.1,2018-01-01
+-103.63,18.81,CALLEJONES,19.3,2018-01-01
+-103.72,18.75,CERRO DE ORTEGA,17.5,2018-01-01
+-103.72,19.24,COLIMA,17.3,2018-01-01
+-103.8,19.21,COQUIMATLAN,18.6,2018-01-01
+-103.6,19.32,CUAHTEMOC,17.9,2018-01-01
+-103.88,19.11,DERIVADORA JALA,17.1,2018-01-01
+-103.72,19.22,LA POSTA,17.4,2018-01-01
+-103.86,18.9,LAGUNA DE AMELA,17.6,2018-01-01
+-104.33,19.07,MANZANILLO,21.5,2018-01-01
+-104.31,19.04,MANZANILLO,21.6,2018-01-01
+-103.81,19.26,PE¤ITAS,18.9,2018-01-01
+-103.72,19.22,RADAR,19.2,2018-01-01
+-103.88,18.92,TECOMAN,19.3,2018-01-01
+-103.39,18.96,TROJES,14.6,2018-01-01
+-103.87,19.17,La Esperanza Col.,14.8,2018-01-01
+-104.33,19.07,Observatorio Manzanillo Col. SMN*,21.0,2018-01-01
+-114.73,18.34,ISLA SOCORRO SEMAR,20.6,2018-01-01
+-104.3,19.07,MANZANILLO SEMAR,20.1,2018-01-01
+-103.73,19.23,OBSERVATORIO COLIMA,16.8,2018-01-01
+-103.61,19.24,BUENAVISTA,16.8,2018-02-01
+-103.63,18.81,CALLEJONES,19.6,2018-02-01
+-103.72,18.75,CERRO DE ORTEGA,19.5,2018-02-01
+-103.72,19.24,COLIMA,18.7,2018-02-01
+-103.8,19.21,COQUIMATLAN,19.6,2018-02-01
+-103.6,19.32,CUAHTEMOC,18.7,2018-02-01
+-103.88,19.11,DERIVADORA JALA,18.0,2018-02-01
+-103.72,19.22,LA POSTA,18.9,2018-02-01
+-103.86,18.9,LAGUNA DE AMELA,19.6,2018-02-01
+-104.33,19.07,MANZANILLO,22.9,2018-02-01
+-104.31,19.04,MANZANILLO,23.0,2018-02-01
+-103.81,19.26,PE¤ITAS,19.9,2018-02-01
+-103.72,19.22,RADAR,20.6,2018-02-01
+-103.88,18.92,TECOMAN,20.1,2018-02-01
+-103.39,18.96,TROJES,16.9,2018-02-01
+-103.87,19.17,La Esperanza Col.,16.6,2018-02-01
+-103.97,18.91,Armeria Col. INIFAP*,18.2,2018-02-01
+-103.61,19.24,BUENAVISTA,16.3,2018-03-01
+-103.63,18.81,CALLEJONES,18.8,2018-03-01
+-103.72,18.75,CERRO DE ORTEGA,17.7,2018-03-01
+-103.72,19.24,COLIMA,17.7,2018-03-01
+-103.8,19.21,COQUIMATLAN,18.9,2018-03-01
+-103.6,19.32,CUAHTEMOC,18.8,2018-03-01
+-103.88,19.11,DERIVADORA JALA,16.2,2018-03-01
+-103.72,19.22,LA POSTA,17.8,2018-03-01
+-103.86,18.9,LAGUNA DE AMELA,17.8,2018-03-01
+-104.33,19.07,MANZANILLO,21.1,2018-03-01
+-104.31,19.04,MANZANILLO,21.1,2018-03-01
+-103.81,19.26,PE¤ITAS,20.1,2018-03-01
+-103.72,19.22,RADAR,18.5,2018-03-01
+-103.88,18.92,TECOMAN,19.8,2018-03-01
+-103.39,18.96,TROJES,16.3,2018-03-01
+-103.87,19.17,La Esperanza Col.,15.3,2018-03-01
+-103.97,18.91,Armeria Col. INIFAP*,16.2,2018-03-01
+-103.61,19.24,BUENAVISTA,16.5,2018-04-01
+-103.63,18.81,CALLEJONES,18.1,2018-04-01
+-103.72,18.75,CERRO DE ORTEGA,17.6,2018-04-01
+-103.72,19.24,COLIMA,17.8,2018-04-01
+-103.8,19.21,COQUIMATLAN,18.7,2018-04-01
+-103.6,19.32,CUAHTEMOC,19.7,2018-04-01
+-103.88,19.11,DERIVADORA JALA,15.6,2018-04-01
+-103.72,19.22,LA POSTA,17.8,2018-04-01
+-103.86,18.9,LAGUNA DE AMELA,17.6,2018-04-01
+-104.33,19.07,MANZANILLO,21.2,2018-04-01
+-104.31,19.04,MANZANILLO,21.3,2018-04-01
+-103.81,19.26,PE¤ITAS,20.2,2018-04-01
+-103.72,19.22,RADAR,18.9,2018-04-01
+-103.88,18.92,TECOMAN,19.6,2018-04-01
+-103.39,18.96,TROJES,16.4,2018-04-01
+-103.87,19.17,La Esperanza Col.,14.9,2018-04-01
+-103.97,18.91,Armeria Col. INIFAP*,15.8,2018-04-01
+-103.61,19.24,BUENAVISTA,20.4,2018-05-01
+-103.63,18.81,CALLEJONES,24.0,2018-05-01
+-103.72,18.75,CERRO DE ORTEGA,22.6,2018-05-01
+-103.72,19.24,COLIMA,21.6,2018-05-01
+-103.8,19.21,COQUIMATLAN,21.8,2018-05-01
+-103.6,19.32,CUAHTEMOC,20.9,2018-05-01
+-103.88,19.11,DERIVADORA JALA,20.7,2018-05-01
+-103.72,19.22,LA POSTA,22.0,2018-05-01
+-103.86,18.9,LAGUNA DE AMELA,22.5,2018-05-01
+-104.33,19.07,MANZANILLO,25.1,2018-05-01
+-104.31,19.04,MANZANILLO,25.1,2018-05-01
+-103.81,19.26,PE¤ITAS,22.5,2018-05-01
+-103.72,19.22,RADAR,22.9,2018-05-01
+-103.88,18.92,TECOMAN,23.2,2018-05-01
+-103.39,18.96,TROJES,21.6,2018-05-01
+-103.87,19.17,La Esperanza Col.,20.0,2018-05-01
+-103.97,18.91,Armeria Col. INIFAP*,21.4,2018-05-01
+-103.61,19.24,BUENAVISTA,21.0,2018-06-01
+-103.63,18.81,CALLEJONES,24.3,2018-06-01
+-103.72,18.75,CERRO DE ORTEGA,23.9,2018-06-01
+-103.72,19.24,COLIMA,22.3,2018-06-01
+-103.8,19.21,COQUIMATLAN,22.9,2018-06-01
+-103.6,19.32,CUAHTEMOC,20.5,2018-06-01
+-103.88,19.11,DERIVADORA JALA,21.9,2018-06-01
+-103.72,19.22,LA POSTA,22.3,2018-06-01
+-103.86,18.9,LAGUNA DE AMELA,23.7,2018-06-01
+-104.33,19.07,MANZANILLO,26.0,2018-06-01
+-104.31,19.04,MANZANILLO,26.1,2018-06-01
+-103.81,19.26,PE¤ITAS,22.6,2018-06-01
+-103.72,19.22,RADAR,24.3,2018-06-01
+-103.88,18.92,TECOMAN,24.2,2018-06-01
+-103.39,18.96,TROJES,21.5,2018-06-01
+-103.87,19.17,La Esperanza Col.,21.2,2018-06-01
+-103.72,19.24,COLIMA,22.4,2018-07-01
+-104.31,19.04,MANZANILLO,26.9,2018-07-01
+-103.87,19.17,La Esperanza Col.,20.6,2018-07-01
+-103.72,18.75,Cerro de Ortega Col.,24.2,2018-07-01
+-103.77,18.81,Laguna de Amela Col.,24.0,2018-07-01
+-103.63,18.81,Callejones Col.,25.0,2018-07-01
+-103.87,18.91,Tecomán Col.,24.6,2018-07-01
+-104.32,19.04,Manzanillo Col.,27.0,2018-07-01
+-103.88,19.11,Derivadora Jala (Madrid) Col.,21.4,2018-07-01
+-103.8,19.21,Coquimatlán Col.,22.7,2018-07-01
+-103.73,19.22,La Posta Col.,22.4,2018-07-01
+-103.73,19.22,Radar Col.,25.5,2018-07-01
+-103.61,19.25,Buena Vista Col.,20.9,2018-07-01
+-103.82,19.27,Peñitas Col.,22.9,2018-07-01
+-103.6,19.32,Cuauhtémoc Col.,21.5,2018-07-01
+-103.72,19.24,COLIMA,21.3,2018-08-01
+-104.33,19.07,MANZANILLO,25.6,2018-08-01
+-103.87,19.17,La Esperanza Col.,20.3,2018-08-01
+-103.72,18.75,Cerro de Ortega Col.,23.5,2018-08-01
+-103.77,18.81,Laguna de Amela Col.,22.6,2018-08-01
+-103.63,18.81,Callejones Col.,24.4,2018-08-01
+-103.87,18.91,Tecomán Col.,23.7,2018-08-01
+-104.32,19.04,Manzanillo Col.,25.7,2018-08-01
+-103.88,19.11,Derivadora Jala (Madrid) Col.,21.2,2018-08-01
+-103.8,19.21,Coquimatlán Col.,21.9,2018-08-01
+-103.73,19.22,La Posta Col.,21.4,2018-08-01
+-103.73,19.22,Radar Col.,24.2,2018-08-01
+-103.61,19.25,Buena Vista Col.,19.9,2018-08-01
+-103.82,19.27,Peñitas Col.,21.9,2018-08-01
+-103.6,19.32,Cuauhtémoc Col.,20.3,2018-08-01
+-103.72,19.24,COLIMA,21.6,2018-09-01
+-104.33,19.07,MANZANILLO,25.8,2018-09-01
+-103.87,19.17,La Esperanza Col.,20.8,2018-09-01
+-103.72,18.75,Cerro de Ortega Col.,23.0,2018-09-01
+-103.77,18.81,Laguna de Amela Col.,22.6,2018-09-01
+-103.63,18.81,Callejones Col.,24.1,2018-09-01
+-103.87,18.91,Tecomán Col.,24.1,2018-09-01
+-104.32,19.04,Manzanillo Col.,25.9,2018-09-01
+-103.88,19.11,Derivadora Jala (Madrid) Col.,21.4,2018-09-01
+-103.8,19.21,Coquimatlán Col.,21.9,2018-09-01
+-103.73,19.22,La Posta Col.,21.6,2018-09-01
+-103.73,19.22,Radar Col.,24.6,2018-09-01
+-103.61,19.25,Buena Vista Col.,19.9,2018-09-01
+-103.82,19.27,Peñitas Col.,22.0,2018-09-01
+-103.6,19.32,Cuauhtémoc Col.,20.1,2018-09-01
+-103.97,18.91,Armeria Col. INIFAP*,22.5,2018-09-01
+-103.72,19.24,COLIMA,21.3,2018-10-01
+-104.33,19.07,MANZANILLO,25.2,2018-10-01
+-103.87,19.17,La Esperanza Col.,20.4,2018-10-01
+-103.72,18.75,Cerro de Ortega Col.,23.2,2018-10-01
+-103.77,18.81,Laguna de Amela Col.,23.0,2018-10-01
+-103.63,18.81,Callejones Col.,23.9,2018-10-01
+-103.87,18.91,Tecomán Col.,23.8,2018-10-01
+-104.32,19.04,Manzanillo Col.,25.2,2018-10-01
+-103.88,19.11,Derivadora Jala (Madrid) Col.,21.0,2018-10-01
+-103.8,19.21,Coquimatlán Col.,21.6,2018-10-01
+-103.73,19.22,La Posta Col.,21.4,2018-10-01
+-103.73,19.22,Radar Col.,23.6,2018-10-01
+-103.61,19.25,Buena Vista Col.,19.4,2018-10-01
+-103.82,19.27,Peñitas Col.,21.5,2018-10-01
+-103.6,19.32,Cuauhtémoc Col.,20.4,2018-10-01
+-103.72,19.24,COLIMA,19.08928571,2018-11-01
+-104.33,19.07,MANZANILLO,23.07037037,2018-11-01
+-103.87,19.17,La Esperanza Col.,17.20833333,2018-11-01
+-103.72,18.75,Cerro de Ortega Col.,20.51666667,2018-11-01
+-103.77,18.81,Laguna de Amela Col.,20.38333333,2018-11-01
+-103.63,18.81,Callejones Col.,22.56521739,2018-11-01
+-103.87,18.91,Tecomán Col.,20.94230769,2018-11-01
+-104.32,19.04,Manzanillo Col.,23.22222222,2018-11-01
+-103.88,19.11,Derivadora Jala (Madrid) Col.,18.57692308,2018-11-01
+-103.8,19.21,Coquimatlán Col.,20.76190476,2018-11-01
+-103.73,19.22,La Posta Col.,19.18148148,2018-11-01
+-103.73,19.22,Radar Col.,21.89285714,2018-11-01
+-103.61,19.25,Buena Vista Col.,16.87931034,2018-11-01
+-103.82,19.27,Peñitas Col.,19.27777778,2018-11-01
+-103.6,19.32,Cuauhtémoc Col.,18.81818182,2018-11-01
+-103.72,19.24,COLIMA,17.1962963,2018-12-01
+-104.33,19.07,MANZANILLO,22.51612903,2018-12-01
+-103.87,19.17,La Esperanza Col.,15.01724138,2018-12-01
+-103.72,18.75,Cerro de Ortega Col.,18.31290323,2018-12-01
+-103.77,18.81,Laguna de Amela Col.,17.79032258,2018-12-01
+-103.63,18.83,Callejones Col.,20.46551724,2018-12-01
+-103.87,18.91,Tecomán Col.,19.18518519,2018-12-01
+-104.32,19.04,Manzanillo Col.,22.46451613,2018-12-01
+-103.8,19.21,Coquimatlán Col.,18.98,2018-12-01
+-103.73,19.22,La Posta Col.,17.11612903,2018-12-01
+-103.73,19.22,Radar Col.,19.33870968,2018-12-01
+-103.61,19.25,Buena Vista Col.,14.91935484,2018-12-01
+-103.81,19.32,Peñitas Col.,18.77777778,2018-12-01
+-104.33,19.07,MANZANILLO,22.77096774,2019-01-01
+-103.72,18.75,Cerro de Ortega Col.,18.32258065,2019-01-01
+-103.77,18.81,Laguna de Amela Col.,18.43333333,2019-01-01
+-104.32,19.04,Manzanillo Col.,22.73870968,2019-01-01
+-103.73,19.22,La Posta Col.,17.37096774,2019-01-01
+-103.73,19.22,Radar Col.,19.96774194,2019-01-01
+-103.61,19.25,Buena Vista Col.,15.5483871,2019-01-01
+-103.88,19.11,Derivadora Jala Col.,16.75806452,2019-01-01
+-103.72,19.24,COLIMA,17.28928571,2019-02-01
+-104.33,19.07,MANZANILLO,21.42857143,2019-02-01
+-103.87,19.17,La Esperanza Col.,14.4,2019-02-01
+-103.72,18.75,Cerro de Ortega Col.,17.625,2019-02-01
+-103.77,18.81,Laguna de Amela Col.,17.51785714,2019-02-01
+-103.63,18.83,Callejones Col.,18.875,2019-02-01
+-103.87,18.91,Tecomán Col.,18.95454545,2019-02-01
+-104.32,19.04,Manzanillo Col.,21.475,2019-02-01
+-103.8,19.21,Coquimatlán Col.,17.75,2019-02-01
+-103.73,19.22,La Posta Col.,17.22857143,2019-02-01
+-103.73,19.22,Radar Col.,18.89285714,2019-02-01
+-103.61,19.25,Buena Vista Col.,15.375,2019-02-01
+-103.81,19.32,Peñitas Col.,19.2,2019-02-01
+-103.6,19.32,Cuauhtémoc Col.,17.65217391,2019-02-01
+-103.88,19.11,Derivadora Jala Col.,16.11538462,2019-02-01
+-103.72,19.24,COLIMA,17.78275862,2019-03-01
+-104.33,19.07,MANZANILLO,21.06129032,2019-03-01
+-103.87,19.17,La Esperanza Col.,14.16,2019-03-01
+-103.72,18.75,Cerro de Ortega Col.,17.98387097,2019-03-01
+-103.77,18.81,Laguna de Amela Col.,18.0,2019-03-01
+-103.63,18.83,Callejones Col.,18.53703704,2019-03-01
+-103.87,18.91,Tecomán Col.,18.98,2019-03-01
+-104.32,19.04,Manzanillo Col.,21.21935484,2019-03-01
+-103.8,19.21,Coquimatlán Col.,18.37037037,2019-03-01
+-103.73,19.22,La Posta Col.,17.90344828,2019-03-01
+-103.73,19.22,Radar Col.,19.20967742,2019-03-01
+-103.61,19.25,Buena Vista Col.,16.88709677,2019-03-01
+-103.81,19.32,Peñitas Col.,19.2962963,2019-03-01
+-103.6,19.32,Cuauhtémoc Col.,18.9047619,2019-03-01
+-103.88,19.11,Derivadora Jala Col.,16.20967742,2019-03-01
+-103.72,19.24,COLIMA,16.6962963,2019-04-01
+-104.33,19.07,MANZANILLO,20.12666667,2019-04-01
+-103.87,19.17,La Esperanza Col.,13.68181818,2019-04-01
+-103.72,18.75,Cerro de Ortega Col.,17.51666667,2019-04-01
+-103.77,18.81,Laguna de Amela Col.,17.5,2019-04-01
+-103.63,18.83,Callejones Col.,17.38333333,2019-04-01
+-103.87,18.91,Tecomán Col.,18.20833333,2019-04-01
+-104.32,19.04,Manzanillo Col.,20.20666667,2019-04-01
+-103.8,19.21,Coquimatlán Col.,17.64285714,2019-04-01
+-103.73,19.22,La Posta Col.,16.73076923,2019-04-01
+-103.73,19.22,Radar Col.,17.51666667,2019-04-01
+-103.61,19.25,Buena Vista Col.,15.7,2019-04-01
+-103.81,19.32,Peñitas Col.,18.83333333,2019-04-01
+-103.6,19.32,Cuauhtémoc Col.,18.75,2019-04-01
+-103.88,19.11,Derivadora Jala Col.,14.9,2019-04-01
+-103.72,19.24,COLIMA,18.74516129,2019-05-01
+-104.33,19.07,MANZANILLO,22.65806452,2019-05-01
+-103.87,19.17,La Esperanza Col.,16.68,2019-05-01
+-103.72,18.75,Cerro de Ortega Col.,20.30645161,2019-05-01
+-103.77,18.81,Laguna de Amela Col.,20.46774194,2019-05-01
+-103.63,18.83,Callejones Col.,20.57407407,2019-05-01
+-103.87,18.91,Tecomán Col.,20.7,2019-05-01
+-104.32,19.04,Manzanillo Col.,22.54827586,2019-05-01
+-103.8,19.21,Coquimatlán Col.,19.26666667,2019-05-01
+-103.73,19.22,La Posta Col.,18.93703704,2019-05-01
+-103.73,19.22,Radar Col.,20.21935484,2019-05-01
+-103.61,19.25,Buena Vista Col.,17.62903226,2019-05-01
+-103.81,19.32,Peñitas Col.,19.28695652,2019-05-01
+-103.6,19.32,Cuauhtémoc Col.,19.39130435,2019-05-01
+-103.88,19.11,Derivadora Jala Col.,17.80322581,2019-05-01
+-103.72,19.24,COLIMA,22.62758621,2019-06-01
+-104.33,19.07,MANZANILLO,26.15666667,2019-06-01
+-103.87,19.17,La Esperanza Col.,21.72727273,2019-06-01
+-103.72,18.75,Cerro de Ortega Col.,24.15384615,2019-06-01
+-103.77,18.81,Laguna de Amela Col.,24.08928571,2019-06-01
+-103.63,18.83,Callejones Col.,25.0,2019-06-01
+-103.87,18.91,Tecomán Col.,24.84090909,2019-06-01
+-104.32,19.04,Manzanillo Col.,26.14,2019-06-01
+-103.8,19.21,Coquimatlán Col.,23.0952381,2019-06-01
+-103.73,19.22,La Posta Col.,22.87333333,2019-06-01
+-103.73,19.22,Radar Col.,24.31666667,2019-06-01
+-103.61,19.25,Buena Vista Col.,21.03333333,2019-06-01
+-103.81,19.32,Peñitas Col.,21.65909091,2019-06-01
+-103.6,19.32,Cuauhtémoc Col.,21.86363636,2019-06-01
+-103.88,19.11,Derivadora Jala Col.,22.05333333,2019-06-01
+-103.72,19.24,COLIMA,21.90333333,2019-07-01
+-104.33,19.07,MANZANILLO,26.67419355,2019-07-01
+-103.87,19.17,La Esperanza Col.,20.85185185,2019-07-01
+-103.72,18.75,Cerro de Ortega Col.,24.03225806,2019-07-01
+-103.77,18.81,Laguna de Amela Col.,23.0483871,2019-07-01
+-103.63,18.83,Callejones Col.,25.07142857,2019-07-01
+-103.87,18.91,Tecomán Col.,24.5,2019-07-01
+-104.32,19.04,Manzanillo Col.,26.71034483,2019-07-01
+-103.8,19.21,Coquimatlán Col.,22.89130435,2019-07-01
+-103.73,19.22,La Posta Col.,21.85483871,2019-07-01
+-103.73,19.22,Radar Col.,24.27419355,2019-07-01
+-103.61,19.25,Buena Vista Col.,20.55555556,2019-07-01
+-103.81,19.32,Peñitas Col.,22.10416667,2019-07-01
+-103.6,19.32,Cuauhtémoc Col.,21.14285714,2019-07-01
+-103.88,19.11,Derivadora Jala Col.,21.72580645,2019-07-01
+-103.72,19.24,Colima,22.35483871,2019-08-01
+-104.33,19.07,Manzanillo,26.6137931,2019-08-01
+-103.87,19.17,La Esperanza Col.,21.28,2019-08-01
+-103.72,18.75,Cerro de Ortega Col.,24.15,2019-08-01
+-103.77,18.81,Laguna de Amela Col.,23.90322581,2019-08-01
+-103.87,18.91,Tecomán Col.,24.7,2019-08-01
+-103.8,19.21,Coquimatlán Col.,22.96296296,2019-08-01
+-103.73,19.22,Radar Col.,24.56451613,2019-08-01
+-103.61,19.25,Buena Vista Col.,20.44444444,2019-08-01
+-103.6,19.32,Cuauhtémoc Col.,21.14,2019-08-01
+-103.88,19.11,Derivadora Jala Col.,21.94827586,2019-08-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.7483871,2019-08-01
+-104.3,19.07,Manzanillo Col. SEMAR*,26.02258065,2019-08-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,22.17741935,2019-08-01
+-103.73,19.23,Colima (Automática),22.6,2019-08-01
+-104.32,19.04,Manzanillo Col.,26.56428571,2019-08-01
+-103.73,19.22,La Posta Col.,22.35333333,2019-08-01
+-103.81,19.32,Peñitas Col.,22.10869565,2019-08-01
+-103.63,18.83,Callejones Col.,25.0,2019-08-01
+-114.73,18.35,Isla Clarión Col. SEMAR*,25.452,2019-08-01
+-103.72,19.24,Colima,22.0,2019-09-01
+-104.33,19.07,Manzanillo,26.0,2019-09-01
+-103.87,19.17,La Esperanza Col.,20.9,2019-09-01
+-103.72,18.75,Cerro de Ortega Col.,24.0,2019-09-01
+-103.77,18.81,Laguna de Amela Col.,23.9,2019-09-01
+-103.63,18.83,Callejones Col.,24.6,2019-09-01
+-103.87,18.91,Tecomán Col.,23.8,2019-09-01
+-104.32,19.04,Manzanillo Col.,26.1,2019-09-01
+-103.8,19.21,Coquimatlán Col.,22.6,2019-09-01
+-103.73,19.22,La Posta Col.,22.1,2019-09-01
+-103.73,19.22,Radar Col.,24.3,2019-09-01
+-103.61,19.25,Buena Vista Col.,20.8,2019-09-01
+-103.81,19.32,Peñitas Col.,21.8,2019-09-01
+-103.6,19.32,Cuauhtémoc Col.,21.0,2019-09-01
+-103.88,19.11,Derivadora Jala Col.,21.6,2019-09-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.1,2019-09-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.5,2019-09-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.7,2019-09-01
+-103.87,19.17,La Esperanza Col.,20.5,2019-10-01
+-103.72,18.75,Cerro de Ortega Col.,23.3,2019-10-01
+-103.77,18.81,Laguna de Amela Col.,23.2,2019-10-01
+-103.63,18.83,Callejones Col.,23.8,2019-10-01
+-103.87,18.91,Tecomán Col.,23.7,2019-10-01
+-104.32,19.04,Manzanillo Col.,25.7,2019-10-01
+-103.8,19.21,Coquimatlán Col.,22.1,2019-10-01
+-103.73,19.22,La Posta Col.,21.4,2019-10-01
+-103.73,19.22,Radar Col.,23.9,2019-10-01
+-103.61,19.25,Buena Vista Col.,19.9,2019-10-01
+-103.81,19.32,Peñitas Col.,21.3,2019-10-01
+-103.6,19.32,Cuauhtémoc Col.,20.4,2019-10-01
+-103.88,19.11,Derivadora Jala Col.,21.3,2019-10-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,23.8,2019-10-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.2,2019-10-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.3,2019-10-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.3,2019-10-01
+-103.72,18.75,Cerro de Ortega Col.,22.9,2019-11-01
+-103.77,18.81,Laguna de Amela Col.,22.7,2019-11-01
+-103.63,18.83,Callejones Col.,24.0,2019-11-01
+-104.32,19.04,Manzanillo Col.,25.5,2019-11-01
+-103.8,19.21,Coquimatlán Col.,21.8,2019-11-01
+-103.73,19.22,La Posta Col.,20.8,2019-11-01
+-103.61,19.25,Buena Vista Col.,19.0,2019-11-01
+-103.6,19.32,Cuauhtémoc Col.,20.1,2019-11-01
+-103.88,19.11,Derivadora Jala Col.,20.8,2019-11-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.5,2019-11-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,24.9,2019-11-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.0,2019-11-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,20.4,2019-11-01
+-103.87,18.91,Tecomán Col.,23.3,2019-11-01
+-103.87,19.17,La Esperanza Col.,19.4,2019-11-01
+-103.73,19.22,Radar Col.,23.8,2019-11-01
+-103.81,19.32,Peñitas Col.,20.9,2019-11-01
+-103.72,18.75,Cerro de Ortega Col.,22.86666667,2019-12-01
+-103.77,18.81,Laguna de Amela Col.,22.66666667,2019-12-01
+-103.63,18.83,Callejones Col.,24.0,2019-12-01
+-104.32,19.04,Manzanillo Col.,25.53333333,2019-12-01
+-103.8,19.21,Coquimatlán Col.,21.76470588,2019-12-01
+-103.73,19.22,La Posta Col.,20.77,2019-12-01
+-103.61,19.25,Buena Vista Col.,18.98148148,2019-12-01
+-103.6,19.32,Cuauhtémoc Col.,20.10526316,2019-12-01
+-103.88,19.11,Derivadora Jala Col.,20.78571429,2019-12-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.49130435,2019-12-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,24.88333333,2019-12-01
+-104.3,19.07,Manzanillo Col. SEMAR*,24.97,2019-12-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,20.40666667,2019-12-01
+-103.87,18.91,Tecomán Col.,23.33333333,2019-12-01
+-103.87,19.17,La Esperanza Col.,19.4,2019-12-01
+-103.73,19.22,Radar Col.,23.83333333,2019-12-01
+-103.81,19.32,Peñitas Col.,20.85,2019-12-01
+-103.87,19.17,La Esperanza Col.,14.6,2020-01-01
+-103.72,18.75,Cerro de Ortega Col.,19.39285714,2020-01-01
+-103.77,18.81,Laguna de Amela Col.,20.0,2020-01-01
+-103.63,18.83,Callejones Col.,20.83333333,2020-01-01
+-103.87,18.91,Tecomán Col.,19.61290323,2020-01-01
+-104.32,19.04,Manzanillo Col.,22.80740741,2020-01-01
+-103.8,19.21,Coquimatlán Col.,18.0,2020-01-01
+-103.73,19.22,La Posta Col.,16.8516129,2020-01-01
+-103.73,19.22,Radar Col.,19.03225806,2020-01-01
+-103.61,19.25,Buena Vista Col.,15.34482759,2020-01-01
+-103.81,19.32,Peñitas Col.,18.02777778,2020-01-01
+-103.6,19.32,Cuauhtémoc Col.,17.61538462,2020-01-01
+-103.88,19.11,Derivadora Jala Col.,17.13793103,2020-01-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,21.46666667,2020-01-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,21.58,2020-01-01
+-104.3,19.07,Manzanillo Col. SEMAR*,21.57419355,2020-01-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,16.212,2020-01-01
+-103.87,19.17,La Esperanza Col.,14.95454545,2020-02-01
+-103.72,18.75,Cerro de Ortega Col.,19.43103448,2020-02-01
+-103.77,18.81,Laguna de Amela Col.,19.43103448,2020-02-01
+-103.63,18.83,Callejones Col.,20.05769231,2020-02-01
+-103.87,18.91,Tecomán Col.,19.51851852,2020-02-01
+-104.32,19.04,Manzanillo Col.,21.86206897,2020-02-01
+-103.73,19.22,La Posta Col.,17.9,2020-02-01
+-103.73,19.22,Radar Col.,18.87931034,2020-02-01
+-103.61,19.25,Buena Vista Col.,17.0,2020-02-01
+-103.81,19.32,Peñitas Col.,18.33333333,2020-02-01
+-103.6,19.32,Cuauhtémoc Col.,17.5,2020-02-01
+-103.88,19.11,Derivadora Jala Col.,16.94230769,2020-02-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,21.05172414,2020-02-01
+-104.3,19.07,Manzanillo Col. SEMAR*,20.8137931,2020-02-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,17.21724138,2020-02-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.07407407,2020-02-01
+-103.87,19.17,La Esperanza Col.,17.6,2020-03-01
+-103.73,18.76,Cerro de Ortega Col.,20.40322581,2020-03-01
+-103.77,18.81,Laguna de Amela Col.,20.38709677,2020-03-01
+-103.63,18.83,Callejones Col.,20.07142857,2020-03-01
+-103.87,18.91,Tecomán Col.,20.90740741,2020-03-01
+-104.32,19.04,Manzanillo Col.,22.70666667,2020-03-01
+-103.8,19.21,Coquimatlán Col.,19.404,2020-03-01
+-103.73,19.22,La Posta Col.,19.03548387,2020-03-01
+-104.1,18.94,Radar Col.,20.12903226,2020-03-01
+-103.61,19.25,Buena Vista Col.,16.60714286,2020-03-01
+-103.81,19.33,Peñitas Col.,20.28947368,2020-03-01
+-103.6,19.32,Cuauhtémoc Col.,19.51724138,2020-03-01
+-103.88,19.11,Derivadora Jala Col.,18.03225806,2020-03-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.9516129,2020-03-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,21.91935484,2020-03-01
+-104.3,19.07,Manzanillo Col. SEMAR*,21.73225806,2020-03-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,18.46774194,2020-03-01
+-103.87,19.17,La Esperanza Col.,14.1,2020-04-01
+-103.73,18.76,Cerro de Ortega Col.,19.0,2020-04-01
+-103.77,18.81,Laguna de Amela Col.,18.9,2020-04-01
+-103.63,18.83,Callejones Col.,17.8,2020-04-01
+-103.87,18.91,Tecomán Col.,18.4,2020-04-01
+-104.32,19.04,Manzanillo Col.,20.5,2020-04-01
+-103.8,19.21,Coquimatlán Col.,18.1,2020-04-01
+-103.73,19.22,La Posta Col.,17.8,2020-04-01
+-104.1,18.94,Radar Col.,18.1,2020-04-01
+-103.61,19.25,Buena Vista Col.,16.6,2020-04-01
+-103.81,19.33,Peñitas Col.,19.2,2020-04-01
+-103.6,19.32,Cuauhtémoc Col.,19.7,2020-04-01
+-103.88,19.11,Derivadora Jala Col.,15.8,2020-04-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.3,2020-04-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,19.5,2020-04-01
+-104.3,19.07,Manzanillo Col. SEMAR*,18.9,2020-04-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,17.0,2020-04-01
+-103.87,19.17,La Esperanza Col.,15.0,2020-05-01
+-103.73,18.76,Cerro de Ortega Col.,20.3,2020-05-01
+-103.77,18.81,Laguna de Amela Col.,20.3,2020-05-01
+-103.63,18.83,Callejones Col.,19.7,2020-05-01
+-103.87,18.91,Tecomán Col.,19.9,2020-05-01
+-104.32,19.04,Manzanillo Col.,21.9,2020-05-01
+-103.8,19.21,Coquimatlán Col.,19.1,2020-05-01
+-103.73,19.22,La Posta Col.,18.4,2020-05-01
+-104.1,18.94,Radar Col.,18.7,2020-05-01
+-103.61,19.25,Buena Vista Col.,17.1,2020-05-01
+-103.81,19.33,Peñitas Col.,19.4,2020-05-01
+-103.6,19.32,Cuauhtémoc Col.,19.9,2020-05-01
+-103.88,19.11,Derivadora Jala Col.,16.7,2020-05-01
+-114.73,18.35,Isla Clarión Col. SEMAR*,20.5,2020-05-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.4,2020-05-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,20.9,2020-05-01
+-104.3,19.07,Manzanillo Col. SEMAR*,20.7,2020-05-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,17.9,2020-05-01
+-103.87,19.17,La Esperanza Col.,20.1,2020-06-01
+-103.73,18.76,Cerro de Ortega Col.,23.3,2020-06-01
+-103.77,18.81,Laguna de Amela Col.,23.3,2020-06-01
+-103.63,18.83,Callejones Col.,24.3,2020-06-01
+-103.87,18.91,Tecomán Col.,23.7,2020-06-01
+-104.32,19.04,Manzanillo Col.,25.0,2020-06-01
+-103.8,19.21,Coquimatlán Col.,22.7,2020-06-01
+-103.73,19.22,La Posta Col.,21.8,2020-06-01
+-104.1,18.94,Radar Col.,22.5,2020-06-01
+-103.61,19.25,Buena Vista Col.,20.6,2020-06-01
+-103.81,19.33,Peñitas Col.,22.2,2020-06-01
+-103.6,19.32,Cuauhtémoc Col.,20.8,2020-06-01
+-103.88,19.11,Derivadora Jala Col.,21.3,2020-06-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,22.4,2020-06-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,24.4,2020-06-01
+-104.3,19.07,Manzanillo Col. SEMAR*,24.4,2020-06-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.6,2020-06-01
+-103.87,19.17,La Esperanza Col.,21.3,2020-07-01
+-103.73,18.76,Cerro de Ortega Col.,24.1,2020-07-01
+-103.77,18.81,Laguna de Amela Col.,24.0,2020-07-01
+-103.63,18.83,Callejones Col.,24.8,2020-07-01
+-103.87,18.91,Tecomán Col.,24.8,2020-07-01
+-104.32,19.04,Manzanillo Col.,26.3,2020-07-01
+-103.8,19.21,Coquimatlán Col.,23.3,2020-07-01
+-103.73,19.22,La Posta Col.,22.6,2020-07-01
+-104.1,18.94,Radar Col.,24.4,2020-07-01
+-103.61,19.25,Buena Vista Col.,20.6,2020-07-01
+-103.81,19.33,Peñitas Col.,22.4,2020-07-01
+-103.6,19.32,Cuauhtémoc Col.,20.9,2020-07-01
+-103.88,19.11,Derivadora Jala Col.,22.4,2020-07-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.0,2020-07-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.5,2020-07-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.9,2020-07-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,22.3,2020-07-01
+-103.87,19.17,La Esperanza Col.,20.9,2020-08-01
+-103.73,18.76,Cerro de Ortega Col.,23.9,2020-08-01
+-103.77,18.81,Laguna de Amela Col.,23.8,2020-08-01
+-103.63,18.83,Callejones Col.,24.6,2020-08-01
+-103.87,18.91,Tecomán Col.,24.2,2020-08-01
+-103.8,19.21,Coquimatlán Col.,22.7,2020-08-01
+-103.73,19.22,La Posta Col.,22.1,2020-08-01
+-104.1,18.94,Radar Col.,23.7,2020-08-01
+-103.81,19.33,Peñitas Col.,21.6,2020-08-01
+-103.6,19.32,Cuauhtémoc Col.,20.2,2020-08-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,26.1,2020-08-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.1,2020-08-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.3,2020-08-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.8,2020-08-01
+-104.32,19.04,Manzanillo Col.,25.7,2020-08-01
+-103.88,19.11,Derivadora Jala Col.,21.6,2020-08-01
+-103.61,19.25,Buena Vista Col.,20.2,2020-08-01
+-103.87,19.17,La Esperanza Col.,20.8,2020-09-01
+-103.73,18.76,Cerro de Ortega Col.,24.0,2020-09-01
+-103.77,18.81,Laguna de Amela Col.,23.7,2020-09-01
+-103.87,18.91,Tecomán Col.,24.5,2020-09-01
+-103.8,19.21,Coquimatlán Col.,22.8,2020-09-01
+-103.73,19.22,La Posta Col.,22.0,2020-09-01
+-104.1,18.94,Radar Col.,24.0,2020-09-01
+-103.81,19.33,Peñitas Col.,21.5,2020-09-01
+-103.6,19.32,Cuauhtémoc Col.,20.8,2020-09-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.8,2020-09-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.4,2020-09-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.6,2020-09-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.7,2020-09-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.9,2020-09-01
+-103.88,19.11,Presa derivadora Jala Col.,21.9,2020-09-01
+-103.61,19.25,Buenavista Col.,20.3,2020-09-01
+-103.87,19.17,La Esperanza Col.,20.6,2020-10-01
+-103.73,18.76,Cerro de Ortega Col.,23.6,2020-10-01
+-103.77,18.81,Laguna de Amela Col.,23.3,2020-10-01
+-103.87,18.91,Tecomán Col.,24.5,2020-10-01
+-103.8,19.21,Coquimatlán Col.,22.7,2020-10-01
+-103.73,19.22,La Posta Col.,21.4,2020-10-01
+-104.1,18.94,Radar Col.,24.2,2020-10-01
+-103.81,19.33,Peñitas Col.,21.4,2020-10-01
+-103.6,19.32,Cuauhtémoc Col.,20.1,2020-10-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.2,2020-10-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.7,2020-10-01
+-104.3,19.07,Manzanillo Col. SEMAR*,26.1,2020-10-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.2,2020-10-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.0,2020-10-01
+-103.88,19.11,Presa derivadora Jala Col.,21.5,2020-10-01
+-103.61,19.25,Buenavista Col.,19.8,2020-10-01
+-103.87,19.17,La Esperanza Col.,17.4,2020-11-01
+-103.73,18.76,Cerro de Ortega Col.,22.0,2020-11-01
+-103.77,18.81,Laguna de Amela Col.,22.0,2020-11-01
+-103.87,18.91,Tecomán Col.,22.4,2020-11-01
+-103.8,19.21,Coquimatlán Col.,20.8,2020-11-01
+-103.73,19.22,La Posta Col.,19.4,2020-11-01
+-104.1,18.94,Radar Col.,22.2,2020-11-01
+-103.81,19.33,Peñitas Col.,20.0,2020-11-01
+-103.6,19.32,Cuauhtémoc Col.,19.4,2020-11-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.4,2020-11-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,23.4,2020-11-01
+-104.3,19.07,Manzanillo Col. SEMAR*,23.3,2020-11-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,18.8,2020-11-01
+-104.32,19.04,Observatorio de Manzanillo Col.,24.1,2020-11-01
+-103.88,19.11,Presa derivadora Jala Col.,19.1,2020-11-01
+-103.61,19.25,Buenavista Col.,18.2,2020-11-01
+-103.87,19.17,La Esperanza Col.,14.7,2020-12-01
+-103.73,18.76,Cerro de Ortega Col.,20.3,2020-12-01
+-103.77,18.81,Laguna de Amela Col.,20.5,2020-12-01
+-103.87,18.91,Tecomán Col.,19.8,2020-12-01
+-103.8,19.21,Coquimatlán Col.,18.4,2020-12-01
+-103.73,19.22,La Posta Col.,16.9,2020-12-01
+-104.1,18.94,Radar Col.,18.8,2020-12-01
+-103.6,19.32,Cuauhtémoc Col.,17.6,2020-12-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,21.5,2020-12-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,20.9,2020-12-01
+-104.3,19.07,Manzanillo Col. SEMAR*,20.7,2020-12-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,16.3,2020-12-01
+-104.32,19.04,Observatorio de Manzanillo Col.,21.7,2020-12-01
+-103.88,19.11,Presa derivadora Jala Col.,16.6,2020-12-01
+-103.61,19.25,Buenavista Col.,15.7,2020-12-01
+-103.87,19.17,La Esperanza Col.,12.9,2021-01-01
+-103.73,18.76,Cerro de Ortega Col.,17.8,2021-01-01
+-103.77,18.81,Laguna de Amela Col.,17.8,2021-01-01
+-103.87,18.91,Tecomán Col.,19.4,2021-01-01
+-103.8,19.21,Coquimatlán Col.,17.4,2021-01-01
+-103.73,19.22,La Posta Col.,16.6,2021-01-01
+-104.1,18.94,Radar Col.,16.9,2021-01-01
+-103.81,19.33,Peñitas Col.,18.3,2021-01-01
+-103.6,19.32,Cuauhtémoc Col.,17.7,2021-01-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.0,2021-01-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,19.6,2021-01-01
+-104.3,19.07,Manzanillo Col. SEMAR*,18.9,2021-01-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,15.9,2021-01-01
+-104.32,19.04,Observatorio de Manzanillo Col.,20.2,2021-01-01
+-103.88,19.11,Presa derivadora Jala Col.,16.0,2021-01-01
+-103.61,19.25,Buenavista Col.,14.7,2021-01-01
+-103.87,19.17,La Esperanza Col.,13.4,2021-02-01
+-103.73,18.76,Cerro de Ortega Col.,17.7,2021-02-01
+-103.77,18.81,Laguna de Amela Col.,17.6,2021-02-01
+-103.87,18.91,Tecomán Col.,18.4,2021-02-01
+-103.8,19.21,Coquimatlán Col.,16.5,2021-02-01
+-103.73,19.22,La Posta Col.,15.7,2021-02-01
+-104.1,18.94,Radar Col.,17.0,2021-02-01
+-103.81,19.33,Peñitas Col.,17.1,2021-02-01
+-103.6,19.32,Cuauhtémoc Col.,14.2,2021-02-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,19.5,2021-02-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,19.2,2021-02-01
+-104.3,19.07,Manzanillo Col. SEMAR*,18.9,2021-02-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,15.1,2021-02-01
+-104.32,19.04,Observatorio de Manzanillo Col.,20.1,2021-02-01
+-103.88,19.11,Presa derivadora Jala Col.,15.2,2021-02-01
+-103.61,19.25,Buenavista Col.,13.8,2021-02-01
+-103.87,19.17,La Esperanza Col.,12.7,2021-03-01
+-103.73,18.76,Cerro de Ortega Col.,17.1,2021-03-01
+-103.77,18.81,Laguna de Amela Col.,17.1,2021-03-01
+-103.87,18.91,Tecomán Col.,18.2,2021-03-01
+-103.8,19.21,Coquimatlán Col.,16.6,2021-03-01
+-103.73,19.22,La Posta Col.,16.8,2021-03-01
+-104.1,18.94,Radar Col.,17.5,2021-03-01
+-103.81,19.33,Peñitas Col.,18.7,2021-03-01
+-103.6,19.32,Cuauhtémoc Col.,18.7,2021-03-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,19.3,2021-03-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,19.2,2021-03-01
+-104.3,19.07,Manzanillo Col. SEMAR*,18.5,2021-03-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,15.9,2021-03-01
+-104.32,19.04,Observatorio de Manzanillo Col.,20.1,2021-03-01
+-103.88,19.11,Presa derivadora Jala Col.,14.9,2021-03-01
+-103.61,19.25,Buenavista Col.,13.7,2021-03-01
+-103.87,19.17,La Esperanza Col.,13.8,2021-04-01
+-103.73,18.76,Cerro de Ortega Col.,18.4,2021-04-01
+-103.77,18.81,Laguna de Amela Col.,18.6,2021-04-01
+-103.87,18.91,Tecomán Col.,18.9,2021-04-01
+-103.8,19.21,Coquimatlán Col.,18.1,2021-04-01
+-103.73,19.22,La Posta Col.,17.4,2021-04-01
+-104.1,18.94,Radar Col.,17.8,2021-04-01
+-103.81,19.33,Peñitas Col.,19.3,2021-04-01
+-103.6,19.32,Cuauhtémoc Col.,19.0,2021-04-01
+-114.73,18.35,Isla Clarión Col. SEMAR*,19.9,2021-04-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.1,2021-04-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,20.1,2021-04-01
+-104.3,19.07,Manzanillo Col. SEMAR*,19.8,2021-04-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,16.4,2021-04-01
+-104.32,19.04,Observatorio de Manzanillo Col.,21.1,2021-04-01
+-103.88,19.11,Presa derivadora Jala Col.,15.4,2021-04-01
+-103.61,19.25,Buenavista Col.,14.8,2021-04-01
+-103.87,19.17,La Esperanza Col.,16.8,2021-05-01
+-103.73,18.76,Cerro de Ortega Col.,20.7,2021-05-01
+-103.77,18.81,Laguna de Amela Col.,20.6,2021-05-01
+-103.87,18.91,Tecomán Col.,21.8,2021-05-01
+-103.8,19.21,Coquimatlán Col.,20.1,2021-05-01
+-103.73,19.22,La Posta Col.,19.6,2021-05-01
+-104.1,18.94,Radar Col.,20.2,2021-05-01
+-103.81,19.33,Peñitas Col.,19.7,2021-05-01
+-103.6,19.32,Cuauhtémoc Col.,19.8,2021-05-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,21.0,2021-05-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,22.6,2021-05-01
+-104.3,19.07,Manzanillo Col. SEMAR*,22.5,2021-05-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,19.7,2021-05-01
+-104.32,19.04,Observatorio de Manzanillo Col.,23.3,2021-05-01
+-103.88,19.11,Presa derivadora Jala Col.,18.3,2021-05-01
+-103.61,19.25,Buenavista Col.,16.5,2021-05-01
+-103.87,19.17,La Esperanza Col.,20.9,2021-06-01
+-103.73,18.76,Cerro de Ortega Col.,23.6,2021-06-01
+-103.77,18.81,Laguna de Amela Col.,23.4,2021-06-01
+-103.87,18.91,Tecomán Col.,24.5,2021-06-01
+-103.8,19.21,Coquimatlán Col.,23.0,2021-06-01
+-103.73,19.22,La Posta Col.,22.2,2021-06-01
+-104.1,18.94,Radar Col.,23.7,2021-06-01
+-103.81,19.33,Peñitas Col.,22.4,2021-06-01
+-103.6,19.32,Cuauhtémoc Col.,20.7,2021-06-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,23.2,2021-06-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.1,2021-06-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.1,2021-06-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,22.0,2021-06-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.0,2021-06-01
+-103.88,19.11,Presa derivadora Jala Col.,21.5,2021-06-01
+-103.61,19.25,Buenavista Col.,19.7,2021-06-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.7,2021-06-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.4,2021-06-01
+-103.87,19.17,La Esperanza Col.,20.5,2021-07-01
+-103.73,18.76,Cerro de Ortega Col.,24.0,2021-07-01
+-103.77,18.81,Laguna de Amela Col.,23.8,2021-07-01
+-103.63,18.83,Callejones Col.,24.7,2021-07-01
+-103.87,18.91,Tecomán Col.,24.8,2021-07-01
+-103.8,19.21,Coquimatlán Col.,22.9,2021-07-01
+-103.73,19.22,La Posta Col.,22.0,2021-07-01
+-104.1,18.94,Radar Col.,24.3,2021-07-01
+-103.81,19.33,Peñitas Col.,21.7,2021-07-01
+-103.6,19.32,Cuauhtémoc Col.,20.4,2021-07-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.8,2021-07-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.5,2021-07-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.7,2021-07-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.8,2021-07-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.3,2021-07-01
+-103.88,19.11,Presa derivadora Jala Col.,21.5,2021-07-01
+-103.61,19.25,Buenavista Col.,19.9,2021-07-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,25.6,2021-07-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.4,2021-07-01
+-103.87,19.17,La Esperanza Col.,20.6,2021-08-01
+-103.73,18.76,Cerro de Ortega Col.,23.9,2021-08-01
+-103.77,18.81,Laguna de Amela Col.,23.5,2021-08-01
+-103.87,18.91,Tecomán Col.,24.6,2021-08-01
+-103.8,19.21,Coquimatlán Col.,22.5,2021-08-01
+-103.73,19.22,La Posta Col.,21.7,2021-08-01
+-104.1,18.94,Radar Col.,23.9,2021-08-01
+-103.81,19.33,Peñitas Col.,21.5,2021-08-01
+-103.6,19.32,Cuauhtémoc Col.,21.0,2021-08-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.6,2021-08-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.3,2021-08-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.4,2021-08-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.6,2021-08-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.0,2021-08-01
+-103.88,19.11,Presa derivadora Jala Col.,21.5,2021-08-01
+-103.61,19.25,Buenavista Col.,20.3,2021-08-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,25.0,2021-08-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.2,2021-08-01
+-103.87,19.17,La Esperanza Col.,20.6,2021-09-01
+-103.73,18.76,Cerro de Ortega Col.,23.7,2021-09-01
+-103.77,18.81,Laguna de Amela Col.,23.6,2021-09-01
+-103.87,18.91,Tecomán Col.,24.4,2021-09-01
+-103.8,19.21,Coquimatlán Col.,22.4,2021-09-01
+-103.73,19.22,La Posta Col.,21.4,2021-09-01
+-104.1,18.94,Radar Col.,23.3,2021-09-01
+-103.81,19.33,Peñitas Col.,21.2,2021-09-01
+-103.6,19.32,Cuauhtémoc Col.,20.2,2021-09-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.3,2021-09-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,24.8,2021-09-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.3,2021-09-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.5,2021-09-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.4,2021-09-01
+-103.88,19.11,Presa derivadora Jala Col.,21.1,2021-09-01
+-103.61,19.25,Buenavista Col.,19.9,2021-09-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.7,2021-09-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,20.7,2021-09-01
+-103.87,19.17,La Esperanza Col.,20.4,2021-10-01
+-103.73,18.76,Cerro de Ortega Col.,23.8,2021-10-01
+-103.77,18.81,Laguna de Amela Col.,23.6,2021-10-01
+-103.87,18.91,Tecomán Col.,24.3,2021-10-01
+-103.8,19.21,Coquimatlán Col.,22.6,2021-10-01
+-103.73,19.22,La Posta Col.,21.6,2021-10-01
+-104.1,18.94,Radar Col.,23.8,2021-10-01
+-103.81,19.33,Peñitas Col.,21.1,2021-10-01
+-103.6,19.32,Cuauhtémoc Col.,20.4,2021-10-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.5,2021-10-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.5,2021-10-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.6,2021-10-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.2,2021-10-01
+-103.88,19.11,Presa derivadora Jala Col.,21.3,2021-10-01
+-103.61,19.25,Buenavista Col.,20.1,2021-10-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.7,2021-10-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.6,2021-10-01
+-103.87,19.17,La Esperanza Col.,18.0,2021-11-01
+-103.73,18.76,Cerro de Ortega Col.,22.1,2021-11-01
+-103.77,18.81,Laguna de Amela Col.,20.7,2021-11-01
+-103.87,18.91,Tecomán Col.,21.5,2021-11-01
+-103.8,19.21,Coquimatlán Col.,20.5,2021-11-01
+-103.73,19.22,La Posta Col.,18.8,2021-11-01
+-104.1,18.94,Radar Col.,21.7,2021-11-01
+-103.81,19.33,Peñitas Col.,19.1,2021-11-01
+-103.6,19.32,Cuauhtémoc Col.,19.0,2021-11-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,23.4,2021-11-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,23.7,2021-11-01
+-104.3,19.07,Manzanillo Col. SEMAR*,23.7,2021-11-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,18.3,2021-11-01
+-104.32,19.04,Observatorio de Manzanillo Col.,24.2,2021-11-01
+-103.88,19.11,Presa derivadora Jala Col.,18.9,2021-11-01
+-103.61,19.25,Buenavista Col.,16.8,2021-11-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,22.6,2021-11-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.5,2021-11-01
+-103.87,19.17,La Esperanza Col.,15.3,2021-12-01
+-103.73,18.76,Cerro de Ortega Col.,20.0,2021-12-01
+-103.77,18.81,Laguna de Amela Col.,19.4,2021-12-01
+-103.87,18.91,Tecomán Col.,20.2,2021-12-01
+-103.8,19.21,Coquimatlán Col.,19.8,2021-12-01
+-103.73,19.22,La Posta Col.,18.1,2021-12-01
+-104.1,18.94,Radar Col.,20.4,2021-12-01
+-103.6,19.32,Cuauhtémoc Col.,18.4,2021-12-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,22.3,2021-12-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,22.6,2021-12-01
+-104.3,19.07,Manzanillo Col. SEMAR*,22.6,2021-12-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,17.7,2021-12-01
+-104.32,19.04,Observatorio de Manzanillo Col.,23.1,2021-12-01
+-103.88,19.11,Presa derivadora Jala Col.,18.2,2021-12-01
+-103.61,19.25,Buenavista Col.,16.0,2021-12-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,21.7,2021-12-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,18.5,2021-12-01
+-103.63,18.83,Callejones Col.,19.5,2022-01-01
+-103.77,18.81,Laguna de Amela Col.,19.1,2022-01-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,21.8,2022-01-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,16.5,2022-01-01
+-103.6,19.32,Cuauhtémoc Col.,17.2,2022-01-01
+-103.87,19.17,La Esperanza Col.,14.5,2022-01-01
+-104.32,19.04,Observatorio de Manzanillo Col.,21.8,2022-01-01
+-103.73,18.76,Cerro de Ortega Col.,19.0,2022-01-01
+-103.87,18.91,Tecomán Col.,19.6,2022-01-01
+-103.8,19.21,Coquimatlán Col.,18.3,2022-01-01
+-103.73,19.22,La Posta Col.,16.8,2022-01-01
+-104.1,18.94,Radar Col.,18.8,2022-01-01
+-103.81,19.33,Peñitas Col.,17.9,2022-01-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,21.1,2022-01-01
+-104.3,19.07,Manzanillo Col. SEMAR*,21.0,2022-01-01
+-103.88,19.11,Presa derivadora Jala Col.,16.8,2022-01-01
+-103.61,19.25,Buenavista Col.,15.4,2022-01-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,20.5,2022-01-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,17.0,2022-01-01
+-103.87,19.17,La Esperanza Col.,13.8,2022-02-01
+-103.73,18.76,Cerro de Ortega Col.,19.1,2022-02-01
+-103.77,18.81,Laguna de Amela Col.,20.0,2022-02-01
+-103.63,18.83,Callejones Col.,18.0,2022-02-01
+-103.87,18.91,Tecomán Col.,19.2,2022-02-01
+-103.8,19.21,Coquimatlán Col.,17.8,2022-02-01
+-103.73,19.22,La Posta Col.,16.6,2022-02-01
+-104.1,18.94,Radar Col.,18.3,2022-02-01
+-103.81,19.33,Peñitas Col.,18.2,2022-02-01
+-103.6,19.32,Cuauhtémoc Col.,17.8,2022-02-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.5,2022-02-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,20.5,2022-02-01
+-104.3,19.07,Manzanillo Col. SEMAR*,20.1,2022-02-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,16.1,2022-02-01
+-104.32,19.04,Observatorio de Manzanillo Col.,21.4,2022-02-01
+-103.88,19.11,Presa derivadora Jala Col.,16.2,2022-02-01
+-103.61,19.25,Buenavista Col.,15.3,2022-02-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,19.8,2022-02-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,16.5,2022-02-01
+-103.87,19.17,La Esperanza Col.,11.9,2022-03-01
+-103.73,18.76,Cerro de Ortega Col.,15.4,2022-03-01
+-103.77,18.81,Laguna de Amela Col.,15.3,2022-03-01
+-103.63,18.83,Callejones Col.,14.8,2022-03-01
+-103.87,18.91,Tecomán Col.,17.3,2022-03-01
+-103.8,19.21,Coquimatlán Col.,15.9,2022-03-01
+-103.73,19.22,La Posta Col.,15.1,2022-03-01
+-104.1,18.94,Radar Col.,16.0,2022-03-01
+-103.81,19.33,Peñitas Col.,17.4,2022-03-01
+-103.6,19.32,Cuauhtémoc Col.,17.7,2022-03-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,19.3,2022-03-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,17.7,2022-03-01
+-104.3,19.07,Manzanillo Col. SEMAR*,17.2,2022-03-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,14.6,2022-03-01
+-104.32,19.04,Observatorio de Manzanillo Col.,18.9,2022-03-01
+-103.88,19.11,Presa derivadora Jala Col.,13.4,2022-03-01
+-103.61,19.25,Buenavista Col.,13.9,2022-03-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,17.9,2022-03-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,15.2,2022-03-01
+-103.87,19.17,La Esperanza Col.,14.5,2022-04-01
+-103.73,18.76,Cerro de Ortega Col.,18.8,2022-04-01
+-103.77,18.81,Laguna de Amela Col.,18.4,2022-04-01
+-103.63,18.83,Callejones Col.,19.1,2022-04-01
+-103.87,18.91,Tecomán Col.,19.5,2022-04-01
+-103.8,19.21,Coquimatlán Col.,17.8,2022-04-01
+-103.73,19.22,La Posta Col.,17.4,2022-04-01
+-104.1,18.94,Radar Col.,18.1,2022-04-01
+-103.81,19.33,Peñitas Col.,17.9,2022-04-01
+-103.6,19.32,Cuauhtémoc Col.,19.6,2022-04-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.3,2022-04-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,19.8,2022-04-01
+-104.3,19.07,Manzanillo Col. SEMAR*,19.6,2022-04-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,16.7,2022-04-01
+-104.32,19.04,Observatorio de Manzanillo Col.,20.4,2022-04-01
+-103.88,19.11,Presa derivadora Jala Col.,15.7,2022-04-01
+-103.61,19.25,Buenavista Col.,16.2,2022-04-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,19.3,2022-04-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,18.1,2022-04-01
+-103.87,19.17,La Esperanza Col.,16.4,2022-05-01
+-103.73,18.76,Cerro de Ortega Col.,20.6,2022-05-01
+-103.77,18.81,Laguna de Amela Col.,20.0,2022-05-01
+-103.63,18.83,Callejones Col.,20.6,2022-05-01
+-103.87,18.91,Tecomán Col.,21.4,2022-05-01
+-103.8,19.21,Coquimatlán Col.,19.8,2022-05-01
+-103.73,19.22,La Posta Col.,19.2,2022-05-01
+-104.1,18.94,Radar Col.,19.6,2022-05-01
+-103.81,19.33,Peñitas Col.,19.7,2022-05-01
+-103.6,19.32,Cuauhtémoc Col.,20.2,2022-05-01
+-114.73,18.35,Isla Clarión Col. SEMAR*,21.1,2022-05-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.7,2022-05-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,21.5,2022-05-01
+-104.3,19.07,Manzanillo Col. SEMAR*,21.6,2022-05-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,19.1,2022-05-01
+-104.32,19.04,Observatorio de Manzanillo Col.,22.0,2022-05-01
+-103.88,19.11,Presa derivadora Jala Col.,18.2,2022-05-01
+-103.61,19.25,Buenavista Col.,18.2,2022-05-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,21.2,2022-05-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.0,2022-05-01
+-103.87,19.17,La Esperanza Col.,21.3,2022-06-01
+-103.73,18.76,Cerro de Ortega Col.,23.6,2022-06-01
+-103.77,18.81,Laguna de Amela Col.,23.1,2022-06-01
+-103.63,18.83,Callejones Col.,24.3,2022-06-01
+-103.87,18.91,Tecomán Col.,24.2,2022-06-01
+-103.8,19.21,Coquimatlán Col.,22.5,2022-06-01
+-103.73,19.22,La Posta Col.,21.5,2022-06-01
+-104.1,18.94,Radar Col.,22.4,2022-06-01
+-103.81,19.33,Peñitas Col.,21.8,2022-06-01
+-103.6,19.32,Cuauhtémoc Col.,20.5,2022-06-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,22.4,2022-06-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,24.9,2022-06-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.2,2022-06-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.7,2022-06-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.5,2022-06-01
+-103.88,19.11,Presa derivadora Jala Col.,21.3,2022-06-01
+-103.61,19.25,Buenavista Col.,20.2,2022-06-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.4,2022-06-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,20.5,2022-06-01
+-103.87,19.17,La Esperanza Col.,21.4,2022-07-01
+-103.73,18.76,Cerro de Ortega Col.,24.1,2022-07-01
+-103.77,18.81,Laguna de Amela Col.,23.7,2022-07-01
+-103.63,18.83,Callejones Col.,24.6,2022-07-01
+-103.87,18.91,Tecomán Col.,24.9,2022-07-01
+-103.8,19.21,Coquimatlán Col.,22.8,2022-07-01
+-103.73,19.22,La Posta Col.,21.9,2022-07-01
+-104.1,18.94,Radar Col.,23.4,2022-07-01
+-103.81,19.33,Peñitas Col.,21.8,2022-07-01
+-103.6,19.32,Cuauhtémoc Col.,20.7,2022-07-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.4,2022-07-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.6,2022-07-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.9,2022-07-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,22.2,2022-07-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.5,2022-07-01
+-103.88,19.11,Presa derivadora Jala Col.,21.7,2022-07-01
+-103.61,19.25,Buenavista Col.,20.3,2022-07-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,25.3,2022-07-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.3,2022-07-01
+-103.87,19.17,La Esperanza Col.,20.6,2022-08-01
+-103.73,18.76,Cerro de Ortega Col.,23.6,2022-08-01
+-103.77,18.81,Laguna de Amela Col.,23.3,2022-08-01
+-103.63,18.83,Callejones Col.,24.8,2022-08-01
+-103.87,18.91,Tecomán Col.,24.3,2022-08-01
+-103.8,19.21,Coquimatlán Col.,22.3,2022-08-01
+-103.73,19.22,La Posta Col.,21.7,2022-08-01
+-104.1,18.94,Radar Col.,24.0,2022-08-01
+-103.81,19.33,Peñitas Col.,21.1,2022-08-01
+-103.6,19.32,Cuauhtémoc Col.,20.3,2022-08-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.5,2022-08-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.1,2022-08-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.3,2022-08-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.7,2022-08-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.9,2022-08-01
+-103.88,19.11,Presa derivadora Jala Col.,21.3,2022-08-01
+-103.61,19.25,Buenavista Col.,20.1,2022-08-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.6,2022-08-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,20.9,2022-08-01
+-103.87,19.17,La Esperanza Col.,20.6,2022-09-01
+-103.73,18.76,Cerro de Ortega Col.,23.6,2022-09-01
+-103.77,18.81,Laguna de Amela Col.,23.3,2022-09-01
+-103.63,18.83,Callejones Col.,24.4,2022-09-01
+-103.87,18.91,Tecomn Col.,23.9,2022-09-01
+-103.8,19.21,Coquimatln Col.,22.6,2022-09-01
+-103.73,19.22,La Posta Col.,21.8,2022-09-01
+-104.1,18.94,Radar Col.,23.3,2022-09-01
+-103.81,19.33,Peitas Col.,21.0,2022-09-01
+-103.6,19.32,Cuauhtmoc Col.,20.3,2022-09-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.2,2022-09-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,25.0,2022-09-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.1,2022-09-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.8,2022-09-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.6,2022-09-01
+-103.88,19.11,Presa derivadora Jala Col.,21.3,2022-09-01
+-103.61,19.25,Buenavista Col.,20.0,2022-09-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.8,2022-09-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.1,2022-09-01
+-103.87,19.17,La Esperanza Col.,20.7,2022-10-01
+-103.73,18.76,Cerro de Ortega Col.,23.3,2022-10-01
+-103.77,18.81,Laguna de Amela Col.,23.0,2022-10-01
+-103.63,18.83,Callejones Col.,24.0,2022-10-01
+-103.87,18.91,Tecomán Col.,23.8,2022-10-01
+-103.8,19.21,Coquimatlán Col.,22.3,2022-10-01
+-103.73,19.22,La Posta Col.,21.5,2022-10-01
+-104.1,18.94,Radar Col.,23.5,2022-10-01
+-103.81,19.33,Peñitas Col.,20.8,2022-10-01
+-103.6,19.32,Cuauhtémoc Col.,20.7,2022-10-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,23.9,2022-10-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,24.9,2022-10-01
+-104.3,19.07,Manzanillo Col. SEMAR*,25.2,2022-10-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.4,2022-10-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.6,2022-10-01
+-103.88,19.11,Presa derivadora Jala Col.,20.8,2022-10-01
+-103.61,19.25,Buenavista Col.,19.8,2022-10-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,22.3,2022-10-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.0,2022-10-01
+-103.87,19.17,La Esperanza Col.,18.7,2022-11-01
+-103.73,18.76,Cerro de Ortega Col.,21.5,2022-11-01
+-103.77,18.81,Laguna de Amela Col.,21.2,2022-11-01
+-103.63,18.83,Callejones Col.,22.4,2022-11-01
+-103.87,18.91,Tecomán Col.,22.9,2022-11-01
+-103.8,19.21,Coquimatlán Col.,21.1,2022-11-01
+-103.73,19.22,La Posta Col.,20.0,2022-11-01
+-104.1,18.94,Radar Col.,22.2,2022-11-01
+-103.81,19.33,Peñitas Col.,20.2,2022-11-01
+-103.6,19.32,Cuauhtémoc Col.,19.2,2022-11-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,22.6,2022-11-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,23.5,2022-11-01
+-104.3,19.07,Manzanillo Col. SEMAR*,24.0,2022-11-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,19.5,2022-11-01
+-104.32,19.04,Observatorio de Manzanillo Col.,24.0,2022-11-01
+-103.88,19.11,Presa derivadora Jala Col.,19.5,2022-11-01
+-103.61,19.25,Buenavista Col.,17.6,2022-11-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,22.5,2022-11-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,20.4,2022-11-01
+-103.87,19.17,La Esperanza Col.,16.2,2022-12-01
+-103.73,18.76,Cerro de Ortega Col.,19.4,2022-12-01
+-103.77,18.81,Laguna de Amela Col.,19.1,2022-12-01
+-103.63,18.83,Callejones Col.,20.4,2022-12-01
+-103.87,18.91,Tecomán Col.,20.9,2022-12-01
+-103.8,19.21,Coquimatlán Col.,18.8,2022-12-01
+-103.73,19.22,La Posta Col.,17.7,2022-12-01
+-104.1,18.94,Radar Col.,19.4,2022-12-01
+-103.81,19.33,Peñitas Col.,18.8,2022-12-01
+-103.6,19.32,Cuauhtémoc Col.,18.0,2022-12-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,21.5,2022-12-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,21.9,2022-12-01
+-104.3,19.07,Manzanillo Col. SEMAR*,22.1,2022-12-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,17.4,2022-12-01
+-104.32,19.04,Observatorio de Manzanillo Col.,22.6,2022-12-01
+-103.88,19.11,Presa derivadora Jala Col.,17.6,2022-12-01
+-103.61,19.25,Buenavista Col.,15.6,2022-12-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,20.9,2022-12-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.2,2022-12-01
+-103.87,19.17,La Esperanza Col.,12.0,2023-01-01
+-103.73,18.76,Cerro de Ortega Col.,17.3,2023-01-01
+-103.77,18.81,Laguna de Amela Col.,16.5,2023-01-01
+-103.63,18.83,Callejones Col.,19.2,2023-01-01
+-103.87,18.91,Tecomán Col.,18.8,2023-01-01
+-103.8,19.21,Coquimatlán Col.,17.2,2023-01-01
+-103.73,19.22,La Posta Col.,16.5,2023-01-01
+-104.1,18.94,Radar Col.,17.6,2023-01-01
+-103.81,19.33,Peñitas Col.,17.5,2023-01-01
+-103.6,19.32,Cuauhtémoc Col.,16.6,2023-01-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.2,2023-01-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,20.1,2023-01-01
+-104.3,19.07,Manzanillo Col. SEMAR*,20.1,2023-01-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,15.8,2023-01-01
+-104.32,19.04,Observatorio de Manzanillo Col.,21.0,2023-01-01
+-103.88,19.11,Presa derivadora Jala Col.,15.4,2023-01-01
+-103.61,19.25,Buenavista Col.,14.1,2023-01-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,19.3,2023-01-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,18.4,2023-01-01
+-103.87,19.17,La Esperanza Col.,13.3,2023-02-01
+-103.73,18.76,Cerro de Ortega Col.,16.7,2023-02-01
+-103.77,18.81,Laguna de Amela Col.,17.1,2023-02-01
+-103.63,18.83,Callejones Col.,18.8,2023-02-01
+-103.87,18.91,Tecomán Col.,19.0,2023-02-01
+-103.8,19.21,Coquimatlán Col.,17.7,2023-02-01
+-103.73,19.22,La Posta Col.,17.4,2023-02-01
+-104.1,18.94,Radar Col.,17.5,2023-02-01
+-103.81,19.33,Peñitas Col.,18.3,2023-02-01
+-103.6,19.32,Cuauhtémoc Col.,17.4,2023-02-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.1,2023-02-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,20.1,2023-02-01
+-104.3,19.07,Manzanillo Col. SEMAR*,20.0,2023-02-01
+-104.32,19.04,Observatorio de Manzanillo Col.,21.2,2023-02-01
+-103.88,19.11,Presa derivadora Jala Col.,16.1,2023-02-01
+-103.61,19.25,Buenavista Col.,14.5,2023-02-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,19.6,2023-02-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.6,2023-02-01
+-103.87,19.17,La Esperanza Col.,15.2,2023-03-01
+-103.73,18.76,Cerro de Ortega Col.,17.7,2023-03-01
+-103.77,18.81,Laguna de Amela Col.,18.4,2023-03-01
+-103.87,18.91,Tecomán Col.,19.6,2023-03-01
+-103.8,19.21,Coquimatlán Col.,17.8,2023-03-01
+-103.73,19.22,La Posta Col.,17.4,2023-03-01
+-104.1,18.94,Radar Col.,18.5,2023-03-01
+-103.81,19.33,Peñitas Col.,17.8,2023-03-01
+-103.6,19.32,Cuauhtémoc Col.,17.9,2023-03-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,19.2,2023-03-01
+-104.32,19.05,Observatorio de Manzanillo Col. SMN*,20.3,2023-03-01
+-104.32,19.04,Observatorio de Manzanillo Col.,21.3,2023-03-01
+-103.88,19.11,Presa derivadora Jala Col.,16.3,2023-03-01
+-103.61,19.25,Buenavista Col.,15.2,2023-03-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,19.8,2023-03-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.1,2023-03-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,20.5,2023-04-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,20.9,2023-04-01
+-103.61,19.25,Buenavista Col.,20.27777778,2023-05-01
+-103.73,18.76,Cerro de Ortega Col.,22.75,2023-05-01
+-103.8,19.21,Coquimatlán Col.,22.375,2023-05-01
+-103.6,19.32,Cuauhtémoc Col.,21.5,2023-05-01
+-103.88,19.11,Presa derivadora Jala Col.,20.61111111,2023-05-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,21.17777778,2023-05-01
+-103.87,19.17,La Esperanza Col.,19.53333333,2023-05-01
+-103.77,18.81,Laguna de Amela Col.,23.42105263,2023-05-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,23.29032258,2023-05-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,23.44,2023-05-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.38888889,2023-05-01
+-103.81,19.33,Peñitas Col.,21.94444444,2023-05-01
+-104.1,18.94,Radar Col.,22.0,2023-05-01
+-103.87,18.91,Tecomán Col.,24.1,2023-05-01
+-103.87,19.17,La Esperanza Col.,20.7,2023-06-01
+-103.73,18.76,Cerro de Ortega Col.,23.9,2023-06-01
+-103.77,18.81,Laguna de Amela Col.,23.9,2023-06-01
+-103.87,18.91,Tecomán Col.,24.9,2023-06-01
+-103.8,19.21,Coquimatlán Col.,23.3,2023-06-01
+-103.73,19.22,La Posta Col.,22.4,2023-06-01
+-104.1,18.94,Radar Col.,23.0,2023-06-01
+-103.81,19.33,Peñitas Col.,22.6,2023-06-01
+-103.6,19.32,Cuauhtémoc Col.,22.0,2023-06-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.2,2023-06-01
+-103.88,19.11,Presa derivadora Jala Col.,21.4,2023-06-01
+-103.61,19.25,Buenavista Col.,20.9,2023-06-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.1,2023-06-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,22.1,2023-06-01
+-103.61,19.25,Buenavista Col.,19.0,2023-07-01
+-103.73,18.76,Cerro de Ortega Col.,22.5,2023-07-01
+-103.8,19.21,Coquimatlán Col.,21.5,2023-07-01
+-103.6,19.32,Cuauhtémoc Col.,20.0,2023-07-01
+-103.88,19.11,Presa derivadora Jala Col.,20.5,2023-07-01
+-103.87,19.17,La Esperanza Col.,20.0,2023-07-01
+-103.77,18.81,Laguna de Amela Col.,23.0,2023-07-01
+-103.72,19.22,La Posta Col.,20.7,2023-07-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,20.0,2023-07-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.0,2023-07-01
+-104.32,19.04,Observatorio de Manzanillo Col.,23.5,2023-07-01
+-103.81,19.33,Peñitas Col.,20.5,2023-07-01
+-104.1,18.94,Radar Col.,23.0,2023-07-01
+-103.87,18.91,Tecomán Col.,23.5,2023-07-01
+-103.87,19.17,La Esperanza Col.,21.7,2023-08-01
+-103.73,18.76,Cerro de Ortega Col.,23.5,2023-08-01
+-103.77,18.81,Laguna de Amela Col.,24.1,2023-08-01
+-103.87,18.91,Tecomán Col.,25.4,2023-08-01
+-103.8,19.21,Coquimatlán Col.,23.7,2023-08-01
+-103.72,19.22,La Posta Col.,23.0,2023-08-01
+-104.1,18.94,Radar Col.,25.8,2023-08-01
+-103.81,19.33,Peñitas Col.,22.6,2023-08-01
+-103.6,19.32,Cuauhtémoc Col.,21.8,2023-08-01
+-104.32,19.04,Observatorio de Manzanillo Col.,26.7,2023-08-01
+-103.88,19.11,Presa derivadora Jala Col.,22.3,2023-08-01
+-103.61,19.25,Buenavista Col.,21.2,2023-08-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,25.6,2023-08-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,22.4,2023-08-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,25.9,2023-08-01
+-103.87,19.17,La Esperanza Col.,21.9,2023-09-01
+-103.73,18.76,Cerro de Ortega Col.,24.0,2023-09-01
+-103.77,18.81,Laguna de Amela Col.,24.5,2023-09-01
+-103.87,18.91,Tecomán Col.,25.5,2023-09-01
+-103.8,19.21,Coquimatlán Col.,24.0,2023-09-01
+-103.73,19.22,La Posta Col.,22.8,2023-09-01
+-104.1,18.94,Radar Col.,25.5,2023-09-01
+-103.81,19.33,Peñitas Col.,22.9,2023-09-01
+-103.6,19.32,Cuauhtémoc Col.,21.9,2023-09-01
+-104.32,19.04,Observatorio de Manzanillo Col.,27.4,2023-09-01
+-103.88,19.11,Presa derivadora Jala Col.,22.8,2023-09-01
+-103.61,19.25,Buenavista Col.,21.2,2023-09-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,26.2,2023-09-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,23.0,2023-09-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,26.7,2023-09-01
+-103.87,19.17,La Esperanza Col.,20.6,2023-10-01
+-103.73,18.76,Cerro de Ortega Col.,23.4,2023-10-01
+-103.77,18.81,Laguna de Amela Col.,23.9,2023-10-01
+-103.87,18.91,Tecomán Col.,23.9,2023-10-01
+-103.8,19.21,Coquimatlán Col.,22.3,2023-10-01
+-103.73,19.22,La Posta Col.,21.9,2023-10-01
+-104.1,18.94,Radar Col.,24.3,2023-10-01
+-103.81,19.33,Peñitas Col.,22.0,2023-10-01
+-103.6,19.32,Cuauhtémoc Col.,20.8,2023-10-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.5,2023-10-01
+-103.88,19.11,Presa derivadora Jala Col.,21.5,2023-10-01
+-103.61,19.25,Buenavista Col.,20.1,2023-10-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.5,2023-10-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.7,2023-10-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.6,2023-10-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,21.8,2023-10-01
+-103.87,19.17,La Esperanza Col.,19.7,2023-11-01
+-103.73,18.76,Cerro de Ortega Col.,22.6,2023-11-01
+-103.77,18.81,Laguna de Amela Col.,23.1,2023-11-01
+-103.87,18.91,Tecomán Col.,22.7,2023-11-01
+-103.73,19.22,La Posta Col.,20.5,2023-11-01
+-104.1,18.94,Radar Col.,24.1,2023-11-01
+-103.81,19.33,Peñitas Col.,21.4,2023-11-01
+-103.6,19.32,Cuauhtémoc Col.,20.0,2023-11-01
+-104.32,19.04,Observatorio de Manzanillo Col.,25.6,2023-11-01
+-103.88,19.11,Presa derivadora Jala Col.,20.7,2023-11-01
+-103.61,19.25,Buenavista Col.,19.4,2023-11-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,24.3,2023-11-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,21.9,2023-11-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,24.5,2023-11-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,20.4,2023-11-01
+-103.87,19.17,La Esperanza Col.,16.0,2023-12-01
+-103.73,18.76,Cerro de Ortega Col.,20.8,2023-12-01
+-103.77,18.81,Laguna de Amela Col.,21.0,2023-12-01
+-103.87,18.91,Tecomán Col.,20.5,2023-12-01
+-103.8,19.21,Coquimatlán Col.,19.6,2023-12-01
+-103.73,19.22,La Posta Col.,18.9,2023-12-01
+-104.1,18.94,Radar Col.,21.5,2023-12-01
+-103.81,19.33,Peñitas Col.,19.4,2023-12-01
+-103.6,19.32,Cuauhtémoc Col.,17.8,2023-12-01
+-104.32,19.04,Observatorio de Manzanillo Col.,23.7,2023-12-01
+-103.88,19.11,Presa derivadora Jala Col.,18.7,2023-12-01
+-103.61,19.25,Buenavista Col.,17.0,2023-12-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,22.4,2023-12-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.7,2023-12-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,23.6,2023-12-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,18.7,2023-12-01
+-104.06,19.39,Minatitlán,14.9,2023-12-01
+-103.87,19.17,La Esperanza Col.,14.5,2024-01-01
+-103.73,18.76,Cerro de Ortega Col.,17.9,2024-01-01
+-103.77,18.81,Laguna de Amela Col.,19.1,2024-01-01
+-103.87,18.91,Tecomán Col.,18.0,2024-01-01
+-103.8,19.21,Coquimatlán Col.,18.4,2024-01-01
+-103.73,19.22,La Posta Col.,17.3,2024-01-01
+-104.1,18.94,Radar Col.,20.3,2024-01-01
+-103.81,19.33,Peñitas Col.,18.5,2024-01-01
+-103.6,19.32,Cuauhtémoc Col.,17.3,2024-01-01
+-104.32,19.04,Observatorio de Manzanillo Col.,22.5,2024-01-01
+-103.88,19.11,Presa derivadora Jala Col.,16.4,2024-01-01
+-103.61,19.25,Buenavista Col.,15.1,2024-01-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,20.8,2024-01-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.5,2024-01-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,21.3,2024-01-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,17.0,2024-01-01
+-103.87,19.17,La Esperanza Col.,15.5,2024-02-01
+-103.73,18.76,Cerro de Ortega Col.,18.4,2024-02-01
+-103.77,18.81,Laguna de Amela Col.,19.6,2024-02-01
+-103.87,18.91,Tecomán Col.,19.1,2024-02-01
+-103.8,19.21,Coquimatlán Col.,18.4,2024-02-01
+-103.73,19.22,La Posta Col.,17.3,2024-02-01
+-104.1,18.94,Radar Col.,20.2,2024-02-01
+-103.81,19.33,Peñitas Col.,18.1,2024-02-01
+-103.6,19.32,Cuauhtémoc Col.,16.4,2024-02-01
+-104.32,19.04,Observatorio de Manzanillo Col.,22.8,2024-02-01
+-103.88,19.11,Presa derivadora Jala Col.,17.0,2024-02-01
+-103.61,19.25,Buenavista Col.,15.7,2024-02-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,20.9,2024-02-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,19.0,2024-02-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.1,2024-02-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,17.4,2024-02-01
+-104.06,19.39,Minatitlán,13.0,2024-02-01
+-103.87,19.17,La Esperanza Col.,13.7,2024-03-01
+-103.73,18.76,Cerro de Ortega Col.,15.9,2024-03-01
+-103.77,18.81,Laguna de Amela Col.,17.0,2024-03-01
+-103.87,18.91,Tecomán Col.,16.6,2024-03-01
+-103.8,19.21,Coquimatlán Col.,17.2,2024-03-01
+-103.73,19.22,La Posta Col.,17.1,2024-03-01
+-104.1,18.94,Radar Col.,17.7,2024-03-01
+-103.81,19.33,Peñitas Col.,18.0,2024-03-01
+-103.6,19.32,Cuauhtémoc Col.,18.0,2024-03-01
+-104.32,19.04,Observatorio de Manzanillo Col.,19.9,2024-03-01
+-103.88,19.11,Presa derivadora Jala Col.,15.4,2024-03-01
+-103.61,19.25,Buenavista Col.,15.0,2024-03-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,18.2,2024-03-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,20.6,2024-03-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,19.6,2024-03-01
+-103.73,19.23,Observatorio de Colima Col. SMN*,16.0,2024-03-01
+-104.06,19.39,Minatitlán,10.7,2024-03-01
+-104.3,19.07,Manzanillo Col. SEMAR*,19.8,2024-03-01
+-103.87,19.17,La Esperanza Col.,14.6,2024-04-01
+-103.73,18.76,Cerro de Ortega Col.,18.4,2024-04-01
+-103.77,18.81,Laguna de Amela Col.,19.4,2024-04-01
+-103.87,18.91,Tecomán Col.,17.9,2024-04-01
+-103.8,19.21,Coquimatlán Col.,17.7,2024-04-01
+-103.73,19.22,La Posta Col.,18.8,2024-04-01
+-104.1,18.94,Radar Col.,18.6,2024-04-01
+-103.81,19.33,Peñitas Col.,19.7,2024-04-01
+-103.6,19.32,Cuauhtémoc Col.,20.0,2024-04-01
+-104.32,19.04,Observatorio de Manzanillo Col.,20.7,2024-04-01
+-103.88,19.11,Presa derivadora Jala Col.,16.4,2024-04-01
+-103.61,19.25,Buenavista Col.,17.1,2024-04-01
+-104.56,19.15,Aeropuerto Internacional de Manzanillo-Costalegre Col.*,19.4,2024-04-01
+-103.58,19.28,Aeropuerto Nacional de Colima Col.*,22.4,2024-04-01
+-110.95,18.73,Isla Socorro Col. SEMAR*,20.7,2024-04-01
+-104.06,19.39,Minatitlán,14.2,2024-04-01
+-104.3,19.07,Manzanillo Col. SEMAR*,21.1,2024-04-01
