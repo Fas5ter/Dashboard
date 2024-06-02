@@ -5,7 +5,7 @@ st.set_page_config(page_title="Inicio", page_icon=":house:")
 
 
 # Correr en local host
-# streamlit run Predicciones_clima_Colima.py
+# streamlit run Inicio.py
 
 #! Requerimientos
 
